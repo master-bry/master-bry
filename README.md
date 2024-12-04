@@ -1,6 +1,6 @@
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m master-bry.
+# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi.
 
-Welcome to my GitHub profile! I'm a senior Software Engineer at the University of Dodoma with a passion for Android application development, Git & GitHub, DevOps, and web development. 
+Welcome to my GitHub profile! I'm a senior Software Engineer at the University of Dodoma with a passion for Android application development,  API,Git & GitHub, DevOps, and web development. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Java-%23F89820.svg?style=flat&logo=java&logoColor=white)
