@@ -13,6 +13,16 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 ![](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/DevOps-%232C3E50.svg?style=flat&logo=devops&logoColor=white)
+![](https://img.shields.io/badge/Android-%233DDC81.svg?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/jQuery-%230E76A8.svg?style=flat&logo=jquery&logoColor=white)
+![](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-%238A32B1.svg?style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
 
 ## 🌱 Currently Learning
 ![](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
