@@ -30,7 +30,6 @@ Here are some of my projects:
 - **Email:** bryngowi@gmail.com
 - **Phone:** +255659864096 or +255746212372
 - **Twitter:** [@Master_5326](https://twitter.com/Master_5326)
-- **Instagram:** [trendzhub5326](https://instagram.com/trendzhub5326)
 - **Instagram:** [trendzhub5326](https://instagram.com/bryngowi.161)
 - **LinkedIn:** [brythemaster](https://www.linkedin.com/in/brythemaster)
 - **Stack Overflow:** [brythemaster](https://stackoverflow.com/users/25196009/brythemaster)
