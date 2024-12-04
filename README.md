@@ -29,7 +29,7 @@ Here are some of my projects:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username= master-bry &show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/all-langs/?username=master-bry&layout=compact&theme=radical)
 
   
 - ⚡ Fun fact: hope keeps us alive/ don't forget to live.
