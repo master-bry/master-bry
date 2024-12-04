@@ -40,3 +40,6 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 ![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 - ⚡ Fun fact: Hope keeps us alive; don't forget to live.
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
+</a>
