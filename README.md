@@ -1,6 +1,6 @@
 # Hi there, 👋 I’m @master-bry.
 
-Welcome to my GitHub profile! I'm a senior Software Engineer at University Of Dodoma with a passion for Android application development, Git & GitHub, DevOps, and web development. 
+Welcome to my GitHub profile! I'm a senior Software Engineer at the University of Dodoma with a passion for Android application development, Git & GitHub, DevOps, and web development. 
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat&logo=java&logoColor=white)
@@ -15,25 +15,25 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at University Of Do
 ![DevOps](https://img.shields.io/badge/DevOps-%232C3E50.svg?style=flat&logo=devops&logoColor=white)
 
 ## 🌱 Currently Learning
-- Spring Framework and Laravel.
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 - 💞️ I’m looking to collaborate on the above specified fields.
 
 ## 💼 Projects
 
 Here are some of my projects:
 
-- [Project 1](link-to-project) - A brief description of what this project does.
-- [Project 2](link-to-project) - A brief description of what this project does.
-- [Project 3](link-to-project) - A brief description of what this project does.
+- [Web Project 1](https://github.com/master-bry/webproject1)
 
 ## 📫 How to reach me
 
 - **Email:** bryngowi@gmail.com
 - **Phone:** +255659864096 or +255746212372
 - **Twitter:** [@Master_5326](https://twitter.com/Master_5326)
-- **Instagram**(https
-- **LinkedIn:** (https://www.linkedin.com/in/brythemaster)
-- **stackoverflow:**(https://stackoverflow.com/users/25196009/brythemaster)
+- **Instagram:** [trendzhub5326](https://instagram.com/trendzhub5326)
+- **Instagram:** [trendzhub5326](https://instagram.com/bryngowi.161)
+- **LinkedIn:** [brythemaster](https://www.linkedin.com/in/brythemaster)
+- **Stack Overflow:** [brythemaster](https://stackoverflow.com/users/25196009/brythemaster)
 
 ## 📈 GitHub Stats
 
