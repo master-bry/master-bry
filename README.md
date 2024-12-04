@@ -22,7 +22,6 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 ![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/.NET-%232C3E50.svg?style=flat&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white)
@@ -37,6 +36,8 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 ## 🌱 Currently Learning
 ![](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/.NET-%232C3E50.svg?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white)
 - 💞️ I’m looking to collaborate on the above specified fields.
 
 ## 📫 How to reach me
