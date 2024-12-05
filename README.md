@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 - ⚡ Fun fact: Hope keeps us alive; don't forget to live.
   ---
 <p align="center">
-<img src="https://github.com/master-bry/master/blob/output/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/master-bry/master/github-contribution-grid-snake-dark.svg">
 </p>
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
