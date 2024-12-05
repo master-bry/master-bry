@@ -61,22 +61,10 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 ![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 - ⚡ Fun fact: Hope keeps us alive; don't forget to live.
+  ---
+<p align="center">
+<img src="https://github.com/master-bry/master-bry/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
 </a>
-<div class="absolute inset-0 backface-hidden p-6 flex flex-col justify-between font-mono text-white" style="background-image:url('/visa-card/backgrounds/1.avif');background-size:cover;background-position:center;opacity:1;will-change:opacity">
-    <div class="flex justify-between select-none pointer-events-none">
-        <img src="/visa-card/chip.png" alt="" class="h-8 sm:h-12 aspect-[60/48]" style="opacity:1;will-change:opacity,transform;transform:none">
-        <img src="/visa-card/zivy.png" alt="" class="w-8 sm:w-11 aspect-square" style="opacity:1;will-change:opacity,transform;transform:none">
-    </div>
-    <p class="font-medium uppercase tracking-[0.2em] text-xl sm:text-3xl text-center" style="opacity:1;will-change:opacity,transform;transform:none">SOFTWARE DEVELOPER</p>
-    <div class="flex justify-between">
-        <div style="opacity:1;will-change:opacity,transform;transform:none">
-            <span class="opacity-75 text-xs sm:text-sm">Company Name</span>
-            <p class="text-sm sm:text-base">TrendzHub Tech</p></div>
-            <div style="opacity:1;will-change:opacity,transform;transform:none">
-                <span class="opacity-75 text-xs sm:text-sm">FOUNDER</span>
-                <p class="text-sm sm:text-base">10/2022 - Present</p>
-            </div>
-        </div>
-    </div>
