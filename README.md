@@ -1,6 +1,6 @@
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi.
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi.
 
-Welcome to my GitHub profile! I'm a senior Software Engineer at the University of Dodoma with a passion for Android application development,  API,Git & GitHub, DevOps, and web development. 
+Welcome to my GitHub profile! I'm a senior Software Engineer student at the University of Dodoma with a passion for Android application development, cloud computing, API,Git & GitHub, DevOps, and web development. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Java-%23F89820.svg?style=flat&logo=java&logoColor=white)
@@ -63,8 +63,8 @@ Welcome to my GitHub profile! I'm a senior Software Engineer at the University o
 - ⚡ Fun fact: Hope keeps us alive; don't forget to live.
   ---
 <p align="center">
-<img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake-dark.svg">
+<img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
   <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
 </a>
