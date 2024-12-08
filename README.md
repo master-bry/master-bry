@@ -1,7 +1,7 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi.
 -------
 Welcome to my GitHub profile!
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------
 I'm a senior Software Engineer student at the University of Dodoma with a passion for Android application development, cloud computing,AI,API,Git & GitHub, DevOps, and web development. 
 
 ## 🔧 Technologies & Tools
@@ -60,13 +60,13 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo's
-![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact: Hope keeps us alive but don't forget to live.
-  ---
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
+---------------
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
 </a>
