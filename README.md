@@ -67,7 +67,7 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 <p align="center">
 <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
- ------------------------------------------------
+
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
 </a>
