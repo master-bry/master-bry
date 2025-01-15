@@ -55,6 +55,7 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ![](https://github-readme-stats.vercel.app/api?username=master-bry&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=21)<br/>
 
 ----
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=dark&hide_border=true)<br/>
 
 -----
@@ -72,7 +73,3 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 <p align="center">
 <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
-
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=brythemaster&label=Profile%20stats&color=0&pretty=false" />
-</a>
