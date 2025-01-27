@@ -67,9 +67,9 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ### 🔝 Top Contributed Repo's
 ![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
- ------------------------------------------------
+ ----------------------------------
 - ⚡ Fun fact: Hope keeps us alive but don't forget to live.
- ---------------------------------------------------
+ ----------------------------------
 <p align="center">
 <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
