@@ -9,9 +9,7 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ![](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Python-%233C8EBB.svg?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/DevOps-%232C3E50.svg?style=flat&logo=devops&logoColor=white)
@@ -25,20 +23,18 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ![](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/.NET-%232C3E50.svg?style=flat&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white)
 ![](https://img.shields.io/badge/XML-%23FF5722.svg?style=flat&logo=xml&logoColor=white)
 ![](https://img.shields.io/badge/JSON-%23F7DF1E.svg?style=flat&logo=json&logoColor=white)
-![](https://img.shields.io/badge/AngularJS-%23DD0031.svg?style=flat&logo=angularjs&logoColor=white)
 ![](https://img.shields.io/badge/SQL-%234E5B31.svg?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-%233C3D4D.svg?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Oracle-%23FF0000.svg?style=flat&logo=oracle&logoColor=white)
 
 
 ## 🌱 Currently Learning
 ![](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/.NET-%232C3E50.svg?style=flat&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white)
 - 💞️ I’m looking to collaborate on the above specified fields.
 
