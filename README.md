@@ -5,30 +5,32 @@ Welcome to my GitHub profile!
 I'm a senior Software Engineer student at the University of Dodoma with a passion for Android application development, cloud computing,AI,API,Git & GitHub, DevOps, and web development. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Java-%23F89820.svg?style=flat&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-%233C8EBB.svg?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/DevOps-%232C3E50.svg?style=flat&logo=devops&logoColor=white)
-![](https://img.shields.io/badge/Android-%233DDC81.svg?style=flat&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/jQuery-%230E76A8.svg?style=flat&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white "Vue.js - Progressive JavaScript Framework")![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)![](https://img.shields.io/badge/Servlet-Java--based-lightgrey?style=flat&logo=java&logoColor=white&color=%23F89820)
-
+![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat&logo=java&logoColor=white "Java - High-performance OOP language")
+![Python](https://img.shields.io/badge/Python-%233C8EBB.svg?style=flat&logo=python&logoColor=white "Python - Versatile programming language")
+![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=flat&logo=git&logoColor=white "Git - Version control system")
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white "GitHub - Code collaboration platform")
+![DevOps](https://img.shields.io/badge/DevOps-%232C3E50.svg?style=flat&logo=devops&logoColor=white "DevOps - CI/CD & Automation")
+![Android](https://img.shields.io/badge/Android-%233DDC81.svg?style=flat&logo=android&logoColor=white "Android - Mobile development")
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white "Linux - Open-source OS")
+![jQuery](https://img.shields.io/badge/jQuery-%230E76A8.svg?style=flat&logo=jquery&logoColor=white "jQuery - JavaScript library")
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black "JavaScript - Web development")
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white "Spring Boot - Java framework")
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white "Vue.js - Progressive JavaScript framework")
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white "Node.js - JavaScript runtime")
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white "Express.js - Node.js web framework")
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white "npm - Node package manager")
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white "Vite - Frontend build tool")
+![Java Servlet](https://img.shields.io/badge/Servlet-Java--based-lightgrey?style=flat&logo=java&logoColor=white&color=%23F89820 "Java Servlet - Server-side Java")
 
 ## 🌱 Currently Learning
-![](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white)
-![](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white "CodeIgniter - PHP framework")
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black "React Native - Cross-platform mobile apps")
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white "Spring - Java ecosystem")
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white "TypeScript - Typed JavaScript")
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white "Flutter - UI toolkit")
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white "Cloud Computing - AWS/GCP/Azure")
+![SEO](https://img.shields.io/badge/SEO-0D8BDB?style=flat&logo=seo&logoColor=white "Search Engine Optimization")
+![Google Lighthouse](https://img.shields.io/badge/Lighthouse-44CC11?style=flat&logo=lighthouse&logoColor=white "Google Lighthouse Performance")
 - 💞️ I’m looking to collaborate on the above specified fields.
 
 ## 📫 How to reach me
