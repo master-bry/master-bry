@@ -54,7 +54,7 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo's
-![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true&count_private=true) 
 
  ----------------------------------
 - ⚡ Fun fact: Hope keeps us alive but don't forget to live.
