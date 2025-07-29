@@ -47,7 +47,7 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 
 ----
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=dark&hide_border=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=master-bry&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ----
 ## 🏆Trophies
