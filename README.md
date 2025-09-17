@@ -70,11 +70,7 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 <br/>
 
 ## 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Commit,Followers,Repositories,PullRequest,Issues,Reviews)
-
-<br/>
-<br/>
+![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 ## 🔝 Top Contributed Repos
 
