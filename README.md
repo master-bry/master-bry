@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm a senior Software Engineer student at the Univ
 
 ## 🌱 Currently Learning
 I'm exploring modern frameworks and cloud technologies to build scalable, high-performance applications:
-  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white "CodeIgniter - PHP framework")
+
+  -![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white "CodeIgniter - PHP framework")
   ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black "React Native - Cross-platform mobile apps")
   ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white "Spring - Java ecosystem")
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white "TypeScript - Typed JavaScript")
