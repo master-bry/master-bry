@@ -32,23 +32,23 @@ Welcome to my GitHub profile! I'm a senior Software Engineer student at the Univ
 
 ## 🌱 Currently Learning
 I'm exploring modern frameworks and cloud technologies to build scalable, high-performance applications:
-- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white "CodeIgniter - PHP framework")
-- ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black "React Native - Cross-platform mobile apps")
-- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white "Spring - Java ecosystem")
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white "TypeScript - Typed JavaScript")
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white "Flutter - UI toolkit")
-- ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white "Cloud Computing - AWS/GCP/Azure")
-- ![SEO](https://img.shields.io/badge/SEO-0D8BDB?style=flat&logo=seo&logoColor=white "Search Engine Optimization")
-- ![Google Lighthouse](https://img.shields.io/badge/Lighthouse-44CC11?style=flat&logo=lighthouse&logoColor=white "Google Lighthouse Performance")
+  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=flat&logo=codeigniter&logoColor=white "CodeIgniter - PHP framework")
+  ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black "React Native - Cross-platform mobile apps")
+  ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white "Spring - Java ecosystem")
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white "TypeScript - Typed JavaScript")
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white "Flutter - UI toolkit")
+  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-%234BCB1D.svg?style=flat&logo=cloud&logoColor=white "Cloud Computing - AWS/GCP/Azure")
+  ![SEO](https://img.shields.io/badge/SEO-0D8BDB?style=flat&logo=seo&logoColor=white "Search Engine Optimization")
+  ![Google Lighthouse](https://img.shields.io/badge/Lighthouse-44CC11?style=flat&logo=lighthouse&logoColor=white "Google Lighthouse Performance")
 - 💞️ I’m looking to collaborate on the above specified fields.
 
 ## 📫 How to Reach Me
-- ![Email](https://img.shields.io/badge/Email-bryngowi%40gmail.com-%23D14836.svg?style=flat&logo=gmail&logoColor=white)
-- ![Phone](https://img.shields.io/badge/Phone-+255659864096-%2328A745.svg?style=flat&logo=phone&logoColor=white)
-- ![Twitter](https://img.shields.io/badge/Twitter-@Master_5326-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-brythemaster-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
-- ![Instagram](https://img.shields.io/badge/Instagram-trendzhub5326-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)
-- ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-brythemaster-%23F48024.svg?style=flat&logo=stackoverflow&logoColor=white)
+- **Email:** bryngowi@gmail.com
+- **Phone:** +255659864096 or +255746212372
+- **Twitter:** [@Master_5326](https://twitter.com/Master_5326)
+- **Instagram:** [trendzhub5326](https://instagram.com/bryngowi.161)
+- **LinkedIn:** [brythemaster](https://www.linkedin.com/in/brythemaster)
+- **Stack Overflow:** [brythemaster](https://stackoverflow.com/users/25196009/brythemaster)
 
 ## 📊 GitHub Stats
 
@@ -67,7 +67,6 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 </a>
 <br/>
 <br/>
-----
 
 ## 🏆 Trophies
 
@@ -75,7 +74,6 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 
 <br/>
 <br/>
-----
 
 ## 🔝 Top Contributed Repos
 
@@ -83,7 +81,6 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 
 <br/>
 <br/>
-----
 <p align="center">
 <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
