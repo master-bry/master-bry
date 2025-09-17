@@ -56,8 +56,11 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 <a href="https://git.io/streak-stats">
   <img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=master-bry&theme=react&hide_border=true&background=1E293B&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&dates=f8fafc&sideLabels=f8fafc&currStreakNum=22c55e" />
 </a>
+
 ----
+
 ## 🏆Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo's
