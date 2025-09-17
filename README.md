@@ -43,10 +43,6 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 - **Stack Overflow:** [brythemaster](https://stackoverflow.com/users/25196009/brythemaster)
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=master-bry&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=21)<br/>
-
-----
-
 ![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=master-bry&theme=dark&hide_border=true)](https://git.io/streak-stats)
