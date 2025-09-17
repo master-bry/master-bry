@@ -45,7 +45,8 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 ## 📈 GitHub Stats
 <a href="https://github.com/master-bry/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&hide_title=false&show_rank=true&count_private=true&include_all_commits=true&line_height=24&title_color=22c55e&text_color=f8fafc&icon_color=22c55e&bg_color=1e293b&hide_border=true&custom_title=Master-Bry%27s%20GitHub%20Stats" />
-</a>
+</a></br>
+
 <a href="https://github.com/master-bry/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&title_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&langs_count=8&hide=html,css" />
 </a>
