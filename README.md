@@ -43,13 +43,19 @@ I'm a senior Software Engineer student at the University of Dodoma with a passio
 - **Stack Overflow:** [brythemaster](https://stackoverflow.com/users/25196009/brythemaster)
 
 ## 📈 GitHub Stats
+<a href="https://github.com/master-bry/github-readme-stats">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&hide_title=false&show_rank=true&count_private=true&include_all_commits=true&line_height=24&title_color=22c55e&text_color=f8fafc&icon_color=22c55e&bg_color=1e293b&hide_border=true&custom_title=Master-Bry%27s%20GitHub%20Stats" />
+</a>
+<a href="https://github.com/master-bry/github-readme-stats">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&title_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&langs_count=8&hide=html,css" />
+</a>
 
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&hide_title=false&hide_rank=false&show_rank=true&count_private=true&include_all_commits=true&line_height=24&disable_animations=false&title_color=22c55e&text_color=f8fafc&icon_color=22c55e&bg_color=1e293b&hide_border=true&custom_title=Master-Bry%27s%20GitHub%20Stats)
+<br/>
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=master-bry&theme=react&hide_border=true&background=1E293B&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&dates=f8fafc&sideLabels=f8fafc&currStreakNum=22c55e)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&title_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&langs_count=8&hide=html,css)](https://github.com/master-bry/github-readme-stats)
-
+<a href="https://git.io/streak-stats">
+  <img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=master-bry&theme=react&hide_border=true&background=1E293B&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&dates=f8fafc&sideLabels=f8fafc&currStreakNum=22c55e" />
+</a>
 ----
 ## 🏆Trophies
 ![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=radical&no-frame=false&no-bg=true&margin-w=4)
