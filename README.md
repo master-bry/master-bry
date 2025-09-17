@@ -1,9 +1,11 @@
 # Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi.
 -------
-Welcome to my GitHub profile! I'm a senior Software Engineer student at the University of Dodoma with a passion for Android app development, cloud computing, AI, APIs, Git & GitHub, DevOps, and web development.  
-⚡ **Fun fact**: Hope keeps us alive, but don’t forget to live!
--------
 
+Welcome to my GitHub profile! I'm a senior Software Engineer student at the University of Dodoma with a passion for Android app development, cloud computing, AI, APIs, Git & GitHub, DevOps, and web development.
+
+⚡ **Fun fact**: Hope keeps us alive, but don’t forget to live!
+
+-------
 ## 🖥️ Technologies & Tools
 
 ### Programming Languages
@@ -40,10 +42,6 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 - ![Google Lighthouse](https://img.shields.io/badge/Lighthouse-44CC11?style=flat&logo=lighthouse&logoColor=white "Google Lighthouse Performance")
 - 💞️ I’m looking to collaborate on the above specified fields.
 
-## 🚀 Featured Projects
-- **[Project Name](https://github.com/master-bry/project-repo)**: A mobile app for [purpose] built with Android and Java. Features include [key features].
-- **[Project Name](https://github.com/master-bry/project-repo)**: A web application using Vue.js and Node.js, integrated with [API/Cloud service] for [functionality].
-
 ## 📫 How to Reach Me
 - ![Email](https://img.shields.io/badge/Email-bryngowi%40gmail.com-%23D14836.svg?style=flat&logo=gmail&logoColor=white)
 - ![Phone](https://img.shields.io/badge/Phone-+255659864096-%2328A745.svg?style=flat&logo=phone&logoColor=white)
@@ -53,9 +51,11 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 - ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-brythemaster-%23F48024.svg?style=flat&logo=stackoverflow&logoColor=white)
 
 ## 📊 GitHub Stats
+
 <a href="https://github.com/master-bry/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&hide_title=false&show_rank=true&count_private=true&include_all_commits=true&line_height=24&title_color=22c55e&text_color=f8fafc&icon_color=22c55e&bg_color=1e293b&hide_border=true&custom_title=Master-Bry%27s%20GitHub%20Stats" />
 </a>
+<br/>
 <br/>
 <a href="https://github.com/master-bry/github-readme-stats">
   <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&title_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&langs_count=8&hide=html,css" />
@@ -70,13 +70,17 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 ----
 
 ## 🏆 Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Commit,Followers,Repositories,PullRequest,Issues,Reviews)
+
 <br/>
 <br/>
 ----
 
 ## 🔝 Top Contributed Repos
+
 ![](https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true)
+
 <br/>
 <br/>
 ----
