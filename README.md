@@ -77,6 +77,12 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 
 <br/>
 <br/>
+
+### **Development Activity Visualization**
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity%20Timeline)
+
+------
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
 <p align="center">
 <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
