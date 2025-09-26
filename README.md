@@ -1,7 +1,9 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi.
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi. , 
+senior Software Engineer student at the University of Dodoma
+
 -------
 
-Welcome to my GitHub profile! I'm a senior Software Engineer student at the University of Dodoma with a passion for Android app development, cloud computing, AI, APIs, Git & GitHub, DevOps, and web development.
+Welcome to my GitHub profile! I'm passionate about building innovative software solutions with expertise in Android development, web development. cloud technologies, AI/ML, and full-stack development. I thrive on turning complex problems into elegant, scalable applications.
 
 ⚡ **Fun fact**: Hope keeps us alive, but don’t forget to live!
 
