@@ -53,23 +53,19 @@ I'm exploring modern frameworks and cloud technologies to build scalable, high-p
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=master-bry&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%;">
-
-<br/>
-<br/>
-<a href="https://github.com/master-bry/github-readme-stats">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&title_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&langs_count=8&hide=html,css" />
-</a>
-<br/>
-<br/>
-<a href="https://git.io/streak-stats">
-  <img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=master-bry&theme=react&hide_border=true&background=1E293B&border=22c55e&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&dates=f8fafc&sideLabels=f8fafc&currStreakNum=22c55e" />
-</a>
-<br/>
-<br/>
-
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=master-bry&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<a href="https://github.com/master-bry">
+            <img height="165" src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats">
+        </a>
+<h3>Programming Proficiency</h3>
+        <a href="https://github.com/master-bry">
+            <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&hide=html,css,scss&card_width=400" alt="Top Languages">
+        </a>
+        <h3>Consistency Metrics</h3>
+        <a href="https://github.com/master-bry">
+            <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=vision-friendly-dark&hide_border=true&fire=22c55e&ring=22c55e&currStreakLabel=22c55e" alt="GitHub Streak">
+        </a>
+        <h3>Achievements</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies">
 
 ## 🔝 Top Contributed Repos
 
