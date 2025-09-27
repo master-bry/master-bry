@@ -1,4 +1,4 @@
-    <p align="center" style="margin-bottom: 5px;">
+<p align="center" style="margin-bottom: 5px;">
   <img src="https://komarev.com/ghpvc/?username=master-bry&color=blue" alt="Profile Views" style="height: 20px; vertical-align: middle; margin: 2px;"/>
   <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 20px; vertical-align: middle; margin: 2px;"/>
   <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 20px; vertical-align: middle; margin: 2px;"/>
