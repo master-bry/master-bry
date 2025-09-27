@@ -6,7 +6,7 @@
 </p>
 
 <div style="display: flex; gap: 8px; background-color: #1e293b; padding: 8px; align-items: center; margin-bottom: 5px;">
-  <div style="width: 20%;">
+  <div style="width: 10%;">
     <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="100%" alt="Brayan Ngowi's Dev Card"/></a>
   </div>
   <div style="width: 78%; color: #f8fafc; font-family: Arial, sans-serif;">
