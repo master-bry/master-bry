@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
 </p>
 
-<div style="display: flex; gap: 10px; background-color: #1e293b; padding: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; background-color: #1e293b; padding: 10px; align-items: horizontal;">
   <div style="width: 24%;">
-    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="100%" alt="Brayan Ngowi's Dev Card"/></a>
+    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="50%" alt="Brayan Ngowi's Dev Card"/></a>
   </div>
   <div style="width: 74%; color: #f8fafc; font-family: Arial, sans-serif;">
     <h1 style="font-size: 24px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 30px;"></h1>
