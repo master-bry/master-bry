@@ -7,7 +7,7 @@
 
 <div style="display: flex; gap: 5px; background-color: #1e293b; padding: 5px; align-items: center; margin-bottom: 2px;">
   <div style="width: 8%;">
-    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="40%" alt="Brayan Ngowi's Dev Card"/></a>
+   <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="652" alt="Brayan Ngowi's Dev Card"/></a>
   </div>
   <div style="width: 90%; color: #f8fafc; font-family: Arial, sans-serif;">
     <h1 style="font-size: 16px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 18px;"></h1>
