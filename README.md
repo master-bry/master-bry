@@ -92,6 +92,9 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 </div>
 <div> <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies">
 </div>
+<div>
+  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true"
+</div>
 
 <br />
       
