@@ -1,28 +1,25 @@
-<div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=master-bry&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
-<div style="display: flex; gap: 10px; background-color: #1e293b; padding: 10px;">
-<a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="24%" alt="Brayan Ngowi's Dev Card"/>
-  
-Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi. 
-senior Software Engineer student at the University of Dodoma </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." width="74%" />
+<div style="display: flex; gap: 10px; background-color: #1e293b; padding: 10px; align-items: center;">
+  <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="24%" alt="Brayan Ngowi's Dev Card"/></a>
+  <div style="width: 74%; color: #f8fafc; font-family: Arial, sans-serif;">
+    <h1>Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle;"></h1>
+    <p>I’m <strong>Brayan Ngowi</strong>, senior Software Engineering student at the University of Dodoma</p>
+  </div>
 </div>
-</p></div>
 
---------
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Brayan Ngowi. , 
-senior Software Engineer student at the University of Dodoma
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=800&height=120&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." />
+</p>
 
--------
-
-Welcome to my GitHub profile! I'm passionate about building innovative software solutions with expertise in Android development, web development. cloud technologies, AI/ML, and full-stack development. I thrive on turning complex problems into elegant, scalable applications.
-
-⚡ **Fun fact**: Hope keeps us alive, but don’t forget to live!
+<p align="center">
+  ⚡ <strong>Fun fact</strong>: Hope keeps us alive, but don’t forget to live!
+</p>
 
 -------
 ## 🛠️ Technical Stack
