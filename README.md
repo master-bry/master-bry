@@ -81,18 +81,20 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
   
 ## 📊 GitHub Stats
 
-<a href="https://github.com/master-bry">
-            <img height="165" src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered" alt="GitHub Stats">
-        </a>
-<h3>Programming Proficiency</h3>
-        <a href="https://github.com/master-bry">
-            <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&hide=html,css,scss&card_width=400" alt="Top Languages">
-        </a>
-        <h3>Consistency Metrics</h3>
-        <a href="https://github.com/master-bry">
-            <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=vision-friendly-dark&hide_border=true&fire=22c55e&ring=22c55e&currStreakLabel=22c55e" alt="GitHub Streak">
-        </a>
-        <h3>Achievements</h3>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=master-bry&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=master-bry&layout=compact&show_icons=true&theme=react" alt="master-bry github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react" alt="master-bry github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko" alt="master-bry github readme activity graph" width="60%" />
+</div>
+<div> <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies">
+</div>
+
+<br />
+      
         <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies">
 
 ## 🔝 Top Contributed Repos
