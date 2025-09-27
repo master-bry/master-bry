@@ -95,17 +95,14 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 
 <br />
       
-        <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies">
-
 ## 🔝 Top Contributed Repos
 
 ![](https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true)
 
-<br/>
-<br/>
+------
+## 🏆 Achievements
 
-### **Development Activity Visualization**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity%20Timeline)
+![trophy](https://github-profile-trophy.vercel.app/?username=master-bry&theme=onedark)
 
 ------
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
