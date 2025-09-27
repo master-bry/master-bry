@@ -1,25 +1,25 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=master-bry&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
+    <p align="center" style="margin-bottom: 5px;">
+  <img src="https://komarev.com/ghpvc/?username=master-bry&color=blue" alt="Profile Views" style="height: 20px; vertical-align: middle; margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 20px; vertical-align: middle; margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 20px; vertical-align: middle; margin: 2px;"/>
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 20px; vertical-align: middle; margin: 2px;"/>
 </p>
 
-<div style="display: flex; gap: 10px; background-color: #1e293b; padding: 10px; align-items: horizontal;">
-  <div style="width: 24%;">
-    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="50%" alt="Brayan Ngowi's Dev Card"/></a>
+<div style="display: flex; gap: 8px; background-color: #1e293b; padding: 8px; align-items: center; margin-bottom: 5px;">
+  <div style="width: 20%;">
+    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="100%" alt="Brayan Ngowi's Dev Card"/></a>
   </div>
-  <div style="width: 74%; color: #f8fafc; font-family: Arial, sans-serif;">
-    <h1 style="font-size: 24px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 30px;"></h1>
-    <p style="margin: 5px 0;">I’m <strong>Brayan Ngowi</strong>, senior Software Engineering student at the University of Dodoma</p>
+  <div style="width: 78%; color: #f8fafc; font-family: Arial, sans-serif;">
+    <h1 style="font-size: 20px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 24px;"></h1>
+    <p style="margin: 3px 0; font-size: 14px;">I’m <strong>Brayan Ngowi</strong>, senior Software Engineering student at the University of Dodoma</p>
   </div>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=800&height=120&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." />
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=24&duration=2500&pause=400&color=7B7B7B&background=344F1F68&center=true&vCenter=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems into+elegant,+scalable+applications." />
 </p>
 
-<p align="center">
+<p align="center" style="margin: 5px 0; font-size: 14px;">
   ⚡ <strong>Fun fact</strong>: Hope keeps us alive, but don’t forget to live!
 </p>
 
