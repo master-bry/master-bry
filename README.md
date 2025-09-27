@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
-  <div>
-<a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="356" alt="Brayan Ngowi's Dev Card"/></a>
+<div style="display: flex; gap: 10px; background-color: #1e293b; padding: 10px;">
+<a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="24%" alt="Brayan Ngowi's Dev Card"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." width="74%" />
 </div>
 </p></div>
 
@@ -73,11 +74,16 @@ I'm continuously expanding my expertise in modern technologies to build scalable
 
 I'm always open to discussing new opportunities, collaborations, and innovative projects:
 
-- **📧 Professional Email**: [bryngowi@gmail.com](mailto:bryngowi@gmail.com)
-- **💼 LinkedIn**: [brythemaster](https://www.linkedin.com/in/brythemaster)
-- **🐦 Twitter**: [@Master_5326](https://twitter.com/Master_5326)
-- **📚 Stack Overflow**: [brythemaster](https://stackoverflow.com/users/25196009/brythemaster)
-- **📱 Direct**: +255 659 864 096 / +255 746 212 372
+[![Email](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bryngowi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brythemaster)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Master_5326)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)
+[![Phone](https://img.shields.io/badge/Phone-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+255659864096)
+[![Phone](https://img.shields.io/badge/Phone-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+255746212372)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bryngowi.161/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bryngowi.161/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)]
+
   
 ## 📊 GitHub Stats
 
@@ -90,18 +96,12 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react" alt="master-bry github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko" alt="master-bry github readme activity graph" width="60%" />
 </div>
-<div> <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies">
+<div> 
+  <img align ="center" src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=5" alt="GitHub Trophies" width="60%" />
+  <img align ="center" src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true" width="39%" />
 </div>
-<div>
-  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true"
-</div>
-
 <br />
       
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true)
-
 ------
 ## 🏆 Achievements
 
