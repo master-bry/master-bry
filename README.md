@@ -7,7 +7,7 @@
 
 <div style="display: flex; gap: 5px; background-color: #1e293b; padding: 5px; align-items: center; margin-bottom: 2px;">
   <div style="width: 8%;">
-    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="100%" alt="Brayan Ngowi's Dev Card"/></a>
+    <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=default&r=skq" width="20%" alt="Brayan Ngowi's Dev Card"/></a>
   </div>
   <div style="width: 90%; color: #f8fafc; font-family: Arial, sans-serif;">
     <h1 style="font-size: 16px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 18px;"></h1>
@@ -16,7 +16,7 @@
 </div>
 
 <p align="center" style="margin-bottom: 2px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=20&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=20&duration=2500&pause=400&color=F8FAFC&background=E2E8F068&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." />
 </p>
 
 <p align="center" style="margin: 2px 0; font-size: 12px;">
