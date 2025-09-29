@@ -99,7 +99,7 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko" alt="master-bry github readme activity graph" width="60%" />
 </div>
 <div> 
-  <img align ="center" src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true" width="60%" />
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true" width="60%" />
 </div>
 <br />
     
