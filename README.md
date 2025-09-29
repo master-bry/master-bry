@@ -84,24 +84,25 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 [![Phone](https://img.shields.io/badge/Phone-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+255746212372)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bryngowi.161/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bry5326/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)]
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)
 
   
 ## 📊 GitHub Stats
 
-   <div class="container">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=master-bry&theme=react" width="51%" />
-        <img src="https://github-readme-stats.vercel.app/api?username=master-bry&layout=compact&show_icons=true&theme=react" alt="master-bry github-readme-stats" width="48%" />
-    </div>
-    <br />
-    <div class="container">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react" alt="master-bry github readme top-langs" width="39%" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko" alt="master-bry github readme activity graph" width="60%" />
-    </div>
-    <div class="container">
-        <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true" width="60%" />
-    </div>
-    
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react&hide_title=true" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=true" alt="Activity Graph" width="59%" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&theme=dark&combine_all_yearly_contributions=true&hide_title=true" alt="Contributor Stats" width="100%" />
+</p>
+
 ------
 ## 🏆 Achievements
 
