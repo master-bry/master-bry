@@ -90,17 +90,17 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_title=false" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react&hide_title=true" alt="Top Languages" width="39%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=true" alt="Activity Graph" width="59%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react&hide_title=false" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false" alt="Activity Graph" width="59%" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&theme=dark&combine_all_yearly_contributions=true&hide_title=true" alt="Contributor Stats" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&theme=dark&combine_all_yearly_contributions=true&hide_title=false" alt="Contributor Stats" width="100%" />
 </p>
 
 ------
