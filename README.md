@@ -89,19 +89,18 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
   
 ## 📊 GitHub Stats
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=master-bry&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=master-bry&layout=compact&show_icons=true&theme=react" alt="master-bry github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react" alt="master-bry github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko" alt="master-bry github readme activity graph" width="60%" />
-</div>
-<div> 
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true" width="60%" />
-</div>
-<br />
+   <div class="container">
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=master-bry&theme=react" width="51%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=master-bry&layout=compact&show_icons=true&theme=react" alt="master-bry github-readme-stats" width="48%" />
+    </div>
+    <br />
+    <div class="container">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react" alt="master-bry github readme top-langs" width="39%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko" alt="master-bry github readme activity graph" width="60%" />
+    </div>
+    <div class="container">
+        <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&show_icons=true&hide=&count_private=true&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=22c55e&icon_color=22c55e&text_color=f8fafc&bg_color=1e293b&hide_border=true&show_rank=true" width="60%" />
+    </div>
     
 ------
 ## 🏆 Achievements
