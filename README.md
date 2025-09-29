@@ -100,7 +100,7 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&theme=dark&combine_all_yearly_contributions=true&hide_title=false" alt="Contributor Stats" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=master-bry&theme=dark&combine_all_yearly_contributions=true&hide_title=false" alt="Contributor Stats" width="60%" />
 </p>
 
 ------
