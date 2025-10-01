@@ -95,7 +95,7 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&layout=compact&theme=react&hide_title=false" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_title=false" alt="Top Languages" width="39%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false" alt="Activity Graph" width="59%" />
 </p>
 
