@@ -105,7 +105,6 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 </p>
 
 ---
-
 <p align="center">
   <a href="https://user-badge.committers.top/tanzania_private/master-bry">
     <img src="https://user-badge.committers.top/tanzania_private/master-bry.svg" alt="committers.top badge" />
@@ -113,9 +112,8 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 </p>
 
 ---
-
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
+---
 <p align="center">
   <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
