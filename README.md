@@ -103,24 +103,8 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=react&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://user-badge.committers.top/tanzania_private/master-bry">
-    <img src="https://user-badge.committers.top/tanzania_private/master-bry.svg" alt="committers.top badge" />
-  </a>
-</p>
-
----
-
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
+---
 <p align="center">
   <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
