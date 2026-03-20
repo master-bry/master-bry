@@ -92,7 +92,10 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false" alt="GitHub Streak" width="49%" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false&hide_border=true" alt="GitHub Streak" width="49%" />
+</a>
+
   <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
@@ -102,7 +105,13 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 </p>
 
 ---
+<p align="center">
+  <a href="https://user-badge.committers.top/tanzania_private/master-bry">
+    <img src="https://user-badge.committers.top/tanzania_private/master-bry.svg" alt="committers.top badge" />
+  </a>
+</p>
 
+---
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
 ---
 <p align="center">
