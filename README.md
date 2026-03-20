@@ -1,9 +1,7 @@
 <p align="center" style="margin-bottom: 2px;">
   <img src="https://komarev.com/ghpvc/?username=master-bry&color=blue" alt="Profile Views" style="height: 16px; vertical-align: middle; margin: 1px;"/>
   <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 16px; vertical-align: middle; margin: 1px;"/>
-
   <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 16px; vertical-align: middle; margin: 1px;" />
-
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 16px; vertical-align: middle; margin: 1px;"/>
 </p>
 
@@ -13,7 +11,7 @@
   </div>
   <div style="width: 90%; color: #f8fafc; font-family: Arial, sans-serif;">
     <h1 style="font-size: 16px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 18px;"></h1>
-    <p style="margin: 2px 0; font-size: 12px;">I’m <strong>Brayan Ngowi</strong>, senior Software Engineering student at the University of Dodoma</p>
+    <p style="margin: 2px 0; font-size: 12px;">I'm <strong>Brayan Ngowi</strong>, senior Software Engineering student at the University of Dodoma</p>
   </div>
 </div>
 
@@ -22,10 +20,11 @@
 </p>
 
 <p align="center" style="margin: 2px 0; font-size: 12px;">
-  ⚡ <strong>Fun fact</strong>: Hope keeps us alive, but don’t forget to live!
+  ⚡ <strong>Fun fact</strong>: Hope keeps us alive, but don't forget to live!
 </p>
 
--------
+---
+
 ## 🛠️ Technical Stack
 
 ### Programming Languages
@@ -88,21 +87,40 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bry5326/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)
 
-  
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&include_all_commits=true&count_private=true&hide_border=true&hide_title=false" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_title=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_title=false&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_title=false" alt="Top Languages" width="39%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false" alt="Activity Graph" width="59%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_title=false&hide_border=true" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false&hide_border=true" alt="Activity Graph" width="59%" />
 </p>
 
-------
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=react&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://user-badge.committers.top/tanzania_private/master-bry">
+    <img src="https://user-badge.committers.top/tanzania_private/master-bry.svg" alt="committers.top badge" />
+  </a>
+</p>
+
+---
+
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
 <p align="center">
-<img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
+  <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
 </p>
