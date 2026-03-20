@@ -92,21 +92,16 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false" alt="GitHub Streak" width="49%" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false&hide_border=true" alt="GitHub Streak" width="49%" />
+</a>
+
   <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_title=false&hide_border=true" alt="Top Languages" width="39%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false&hide_border=true" alt="Activity Graph" width="59%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=react&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
