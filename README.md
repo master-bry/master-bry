@@ -92,11 +92,12 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_title=false&hide_border=true" alt="GitHub Streak" width="49%" />
-</a>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%" />
+ <a href="https://github.com/master-bry">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_border=true&hide_title=false&fire=22c55e&ring=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" width="49%">
+  </a>
+ <a href="https://github.com/master-bry">
+    <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+  </a>
 </p>
 
 <p align="center">
