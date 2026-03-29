@@ -93,15 +93,15 @@ I'm always open to discussing new opportunities, collaborations, and innovative 
 
 <p align="center">
   <a href="https://github.com/master-bry">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_border=true&hide_title=false&fire=22c55e&ring=22c55e&currStreakLabel=22c55e&cacheBuster=1774796673" alt="GitHub Streak" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_border=true&hide_title=false&fire=22c55e&ring=22c55e&currStreakLabel=22c55e&cacheBuster=1774799011" alt="GitHub Streak" width="49%">
   </a>
   <a href="https://github.com/master-bry">
-    <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cacheBuster=1774796673" alt="GitHub Stats" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&cacheBuster=1774799011" alt="GitHub Stats" width="49%">
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_title=false&hide_border=true&cacheBuster=1774796673" alt="Top Languages" width="39%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false&hide_border=true&cacheBuster=1774796673" alt="Activity Graph" width="59%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_title=false&hide_border=true&cacheBuster=1774799011" alt="Top Languages" width="39%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_title=false&hide_border=true&cacheBuster=1774799011" alt="Activity Graph" width="59%" />
 </p>
 
 ---
