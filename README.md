@@ -11,7 +11,7 @@
   </div>
   <div style="width: 90%; color: #f8fafc; font-family: Arial, sans-serif;">
     <h1 style="font-size: 16px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 18px;"></h1>
-    <p style="margin: 2px 0; font-size: 12px;">I'm <strong>Brayan Ngowi</strong>, senior Software Engineering student at the University of Dodoma</p>
+    <p style="margin: 2px 0; font-size: 12px;">I'm <strong>Brayan Ngowi</strong>, senior Software Engineering and a final year student at the University of Dodoma pursuing BSc. Software Engineering </p>
   </div>
 </div>
 
