@@ -29,8 +29,8 @@ Final-year **BSc. Software Engineering** student at the **University of Dodoma**
 
 ```yaml
 name:       Brayan Ngowi
-alias:      BryTheMaster
-born:       2001
+alias:      Master-Bry | BryTheMaster 
+born:       10-05-2001
 location:   Dodoma, Tanzania 🇹🇿
 education:  BSc. Software Engineering @ UDOM
 status:     Actively seeking opportunities
