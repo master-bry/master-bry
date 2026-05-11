@@ -1,114 +1,210 @@
-<p align="center" style="margin-bottom: 2px;">
-  <img src="https://komarev.com/ghpvc/?username=master-bry&color=blue" alt="Profile Views" style="height: 16px; vertical-align: middle; margin: 1px;"/>
-  <img src="https://img.shields.io/badge/Birth_Year-2001-pink" alt="Birth Year" style="height: 16px; vertical-align: middle; margin: 1px;"/>
-  <img src="https://img.shields.io/badge/Learning-Java%20%26%20codeigniter4-yellow" alt="Learning" style="height: 16px; vertical-align: middle; margin: 1px;" />
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 16px; vertical-align: middle; margin: 1px;"/>
+<div align="center">
+
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<!-- BADGES ROW -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=master-bry&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-0ea5e9?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Based%20in-Tanzania%20🇹🇿-f59e0b?style=for-the-badge" alt="Location"/>
 </p>
 
-<div style="display: flex; gap: 5px; background-color: #1e293b; padding: 5px; align-items: center; margin-bottom: 2px;">
-  <div style="width: 8%;">
-   <a href="https://app.daily.dev/masterbry"><img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="652" alt="Brayan Ngowi's Dev Card"/></a>
-  </div>
-  <div style="width: 90%; color: #f8fafc; font-family: Arial, sans-serif;">
-    <h1 style="font-size: 16px; margin: 0;">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Welcome GIF" style="vertical-align: middle; height: 18px;"></h1>
-    <p style="margin: 2px 0; font-size: 12px;">I'm <strong>Brayan Ngowi</strong>, senior Software Engineering and a final year student at the University of Dodoma pursuing BSc. Software Engineering </p>
-  </div>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Android+%26+Flutter+mobile+development;Cloud+architecture+%26+microservices;Turning+complex+problems+into+clean+solutions" alt="Typing SVG" />
+
 </div>
 
-<p align="center" style="margin-bottom: 2px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=20&duration=2500&pause=400&color=F8FAFC&background=E2E8F068&center=true&vCenter=true&random=false&width=600&height=80&lines=Welcome+to+my+GitHub+profile!;I'm+passionate+about+building+innovative+software+solutions;with+expertise+in+Android+development,+web+development,;cloud+technologies,+AI/ML,+and+full-stack+development.;I+thrive+on+turning+complex+problems;into+elegant,+scalable+applications." />
-</p>
+---
 
-<p align="center" style="margin: 2px 0; font-size: 12px;">
-  ⚡ <strong>Fun fact</strong>: Hope keeps us alive, but don't forget to live!
-</p>
+<!-- ABOUT ME SECTION -->
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 About Me
+
+Final-year **BSc. Software Engineering** student at the **University of Dodoma**, Tanzania. I design and ship end-to-end digital products — from robust backend APIs to polished mobile apps.
+
+```yaml
+name:       Brayan Ngowi
+alias:      BryTheMaster
+born:       2001
+location:   Dodoma, Tanzania 🇹🇿
+education:  BSc. Software Engineering @ UDOM
+status:     Actively seeking opportunities
+```
+
+- 🔭 Currently building with **Java, React, Spring Boot & CodeIgniter**
+- 🌱 Deepening skills in **Cloud Architecture | AI/ML | Big Data & Data Science**
+- 💡 Passionate about **clean code & scalable systems**
+- ⚡ Fun fact: *"Hope keeps us alive, but don't forget to live!"*
+
+</td>
+<td width="45%" align="center">
+
+<a href="https://app.daily.dev/masterbry">
+  <img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="100%" alt="Brayan Ngowi's Dev Card"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Arsenal
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat&logo=java&logoColor=white&labelColor=2D3748 "Java - High-performance OOP language")
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white&labelColor=2D3748 "Python - Versatile programming language")
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black&labelColor=2D3748 "JavaScript - Web development")
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=2D3748 "TypeScript - Typed JavaScript")
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=2D3748 "Dart - Flutter development")
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white&labelColor=2D3748 "PHP - Server-side scripting")
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
 
-### Frameworks & Libraries
-#### Backend & Full-stack
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white&labelColor=2D3748 "Spring Boot - Java framework")
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=2D3748 "Node.js - JavaScript runtime")
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=2D3748 "Express.js - Node.js web framework")
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white&labelColor=2D3748 "CodeIgniter - PHP framework")
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Frontend & Mobile
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white&labelColor=2D3748 "Vue.js - Progressive JavaScript framework")
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black&labelColor=2D3748 "React Native - Cross-platform mobile apps")
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=2D3748 "Flutter - UI toolkit")
+</details>
 
-### DevOps & Cloud Technologies
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=2D3748 "Amazon Web Services")
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=2D3748 "Docker - Containerization")
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=2D3748 "Git - Version control system")
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white&labelColor=2D3748 "GitHub Actions - CI/CD")
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=2D3748 "Linux - Open-source OS")
+<details open>
+<summary><b>🧩 Frameworks & Libraries</b></summary>
+<br>
 
-### Tools & Platforms
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white&labelColor=2D3748 "Android Studio - Mobile development")
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=2D3748 "Visual Studio Code")
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=2D3748 "Postman - API development")
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white "npm - Node package manager")
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white "Vite - Frontend build tool")
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=2D3748 "MongoDB - NoSQL database")
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=2D3748 "MySQL - Relational database")
+**Backend**
 
----
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-## 🌱 Currently Enhancing
-I'm continuously expanding my expertise in modern technologies to build scalable, high-performance applications:
+**Frontend & Mobile**
 
-- **Cloud Architecture & Microservices** - Designing distributed systems on cloud platforms
-- **AI/ML Integration** - Implementing intelligent features in applications
-- **Mobile Development** - Advanced Flutter and React Native patterns
-- **Performance Optimization** - SEO, Lighthouse metrics, and core web vitals
-- **DevOps Practices** - CI/CD pipelines and infrastructure as code
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📫 How to Reach Me
+</details>
 
-I'm always open to discussing new opportunities, collaborations, and innovative projects:
+<details open>
+<summary><b>☁️ DevOps, Cloud & Databases</b></summary>
+<br>
 
-[![Email](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bryngowi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brythemaster)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Master_5326)
-[![Phone](https://img.shields.io/badge/Phone-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+255659864096)
-[![Phone](https://img.shields.io/badge/Phone-%2325D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+255746212372)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bryngowi.161/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bry5326/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools</b></summary>
+<br>
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/master-bry">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=react&hide_border=true&fire=22c55e&ring=22c55e&currStreakLabel=22c55e" alt="GitHub Streak" width="49%">
-  </a>
-  <a href="https://github.com/master-bry">
-    <img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
-  </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="39%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=merko&hide_border=true" alt="Activity Graph" width="59%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8" alt="GitHub Streak" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=0ea5e9" alt="Top Languages" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=tokyo-night&hide_border=false&radius=10&area=true&area_color=0ea5e9" alt="Activity Graph" width="58%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+## 🌱 Currently Leveling Up
+
+<table>
+<tr>
+<td width="50%">
+
+**☁️ Cloud & Microservices**
+> Designing distributed, fault-tolerant systems on AWS with Docker & Kubernetes
+
+**🤖 AI/ML Integration**
+> Embedding intelligent features into production applications
+
+</td>
+<td width="50%">
+
+**📱 Advanced Mobile Patterns**
+> State management, animations & offline-first architectures in Flutter
+
+**⚡ Performance & DevOps**
+> CI/CD pipelines, core web vitals, infrastructure as code
+
+</td>
+</tr>
+</table>
 
 ---
-<p align="center">
-  <img src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg">
-</p>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-bryngowi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryngowi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brythemaster-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brythemaster)
+[![Twitter](https://img.shields.io/badge/Twitter-@Master__5326-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Master_5326)
+[![Instagram](https://img.shields.io/badge/Instagram-bryngowi.161-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bryngowi.161/)
+[![Facebook](https://img.shields.io/badge/Facebook-bry5326-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bryngowi.161/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-brythemaster-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25196009/brythemaster)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B255%20659%20864%20096-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255659864096)
+
+</div>
+
+---
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+
+**🐍 Watch my contributions get eaten!**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</div>
