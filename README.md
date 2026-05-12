@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-Final-year **BSc. Software Engineering** student at the **University of Dodoma**, Tanzania. I design and ship end-to-end digital products — from robust backend APIs to polished mobile apps.
+Final-year **BSc. Software Engineering** student at the **University of Dodoma**, Tanzania. I design and ship end-to-end digital products  from robust backend APIs to polished mobile apps.
 
 ```yaml
 name:       Brayan Ngowi
@@ -89,7 +89,7 @@ status:     Actively seeking opportunities
 </details>
 
 <details open>
-<summary><b>☁️ DevOps, Cloud & Databases</b></summary>
+<summary><b>☁️ DevOps, Cloud Computing & DDBMS</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -206,5 +206,5 @@ status:     Actively seeking opportunities
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
