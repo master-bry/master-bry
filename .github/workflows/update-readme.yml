@@ -2,9 +2,10 @@ name: Update README Stats
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours (reliable)
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:  # Allows manual trigger from GitHub UI
 
 jobs:
   update-readme:
@@ -16,19 +17,32 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Inject dynamic cache buster into stats URLs
+      - name: Update cache buster in README
         run: |
           TIMESTAMP=$(date +%s)
-
-          # Replace all cacheBuster=XXXXXXX with fresh timestamp
+          
+          # More robust pattern matching for GitHub stats URLs
+          # This handles multiple common stats image formats
+          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/?user=master-bry[^?&\"')]*\)[?&]cacheBuster=[0-9]*|\1?cacheBuster=$TIMESTAMP|g" README.md
+          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/?user=master-bry[^?&\"')]*\)\?cacheBuster=[0-9]*|\1?cacheBuster=$TIMESTAMP|g" README.md
+          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/?user=master-bry[^?&\"')]*\)|\1?cacheBuster=$TIMESTAMP|g" README.md
+          
+          # Also handle if there are any existing cache busters without the ? properly
           sed -i "s/cacheBuster=[0-9]*/cacheBuster=$TIMESTAMP/g" README.md
 
-          # If no cacheBuster exists yet, add to each stats URL
-          sed -i "s/github-readme-streak-stats\.herokuapp\.com\/?\(user=master-bry[^\"&]*\)\"/github-readme-streak-stats.herokuapp.com\/?\1\&cacheBuster=$TIMESTAMP\"/g" README.md
+      - name: Debug - Show changes
+        run: |
+          git diff README.md || echo "No changes detected"
 
-      - name: Commit & push if changed
+      - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || (git commit -m "chore: refresh stats cache [skip ci]" && git push)
+          
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: refresh stats cache [skip ci]"
+            git push
+          fi
