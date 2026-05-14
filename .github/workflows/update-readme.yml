@@ -4,8 +4,8 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:  # Allows manual trigger from GitHub UI
+  - cron: '*/5 * * * *'
+  workflow_dispatch:       # Trigger manually kutoka GitHub UI
 
 jobs:
   update-readme:
@@ -20,27 +20,57 @@ jobs:
       - name: Update cache buster in README
         run: |
           TIMESTAMP=$(date +%s)
-          
-          # More robust pattern matching for GitHub stats URLs
-          # This handles multiple common stats image formats
-          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/?user=master-bry[^?&\"')]*\)[?&]cacheBuster=[0-9]*|\1?cacheBuster=$TIMESTAMP|g" README.md
-          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/?user=master-bry[^?&\"')]*\)\?cacheBuster=[0-9]*|\1?cacheBuster=$TIMESTAMP|g" README.md
-          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/?user=master-bry[^?&\"')]*\)|\1?cacheBuster=$TIMESTAMP|g" README.md
-          
-          # Also handle if there are any existing cache busters without the ? properly
-          sed -i "s/cacheBuster=[0-9]*/cacheBuster=$TIMESTAMP/g" README.md
+          echo "Timestamp mpya: $TIMESTAMP"
 
-      - name: Debug - Show changes
+          # Hatua 1: Futa cacheBuster zilizopo zote kwanza (clean slate)
+          # Inaondoa ?cacheBuster=... au &cacheBuster=... kutoka kwa URL yoyote
+          sed -i 's/[?&]cacheBuster=[0-9]*//g' README.md
+
+          # Hatua 2: Ongeza cacheBuster mpya kwenye streak stats URL
+          sed -i "s|\(https://github-readme-streak-stats\.herokuapp\.com/[^)\"' ]*\)|\1\&cacheBuster=$TIMESTAMP|g" README.md
+
+          # Hatua 3: Fanya & iwe ? kama ni parameter ya kwanza (baada ya ?)
+          # Inarekebisha URL zinazokuwa na && au ?& ziwe sahihi
+          sed -i 's/?[^=]*=\([^&"'"'"' )]*\)&cacheBuster/?\1\&cacheBuster/g' README.md
+          
+          # Rahisi zaidi: tumia Python kwa usahihi zaidi
+          python3 - <<'PYEOF'
+          import re, pathlib
+
+          readme = pathlib.Path("README.md").read_text()
+
+          def add_cache_buster(match):
+              import time
+              url = match.group(0)
+              # Ondoa cacheBuster ya zamani
+              url = re.sub(r'[?&]cacheBuster=\d+', '', url)
+              # Ongeza mpya
+              sep = '&' if '?' in url else '?'
+              return url + sep + 'cacheBuster=$TIMESTAMP'
+
+          # Badilisha streak stats URLs
+          pattern = r'https://github-readme-streak-stats\.herokuapp\.com/\S+(?=[\)"\' ]|$)'
+          updated = re.sub(pattern, add_cache_buster, readme)
+
+          pathlib.Path("README.md").write_text(updated)
+          print("README imesasishwa vizuri.")
+          PYEOF
+
+          # Ingiza TIMESTAMP halisi kwenye README
+          sed -i "s/\\\$TIMESTAMP/$TIMESTAMP/g" README.md
+
+      - name: Onyesha mabadiliko (debug)
         run: |
-          git diff README.md || echo "No changes detected"
+          echo "=== Mabadiliko yaliyofanywa ==="
+          git diff README.md || echo "Hakuna mabadiliko."
 
-      - name: Commit and push if changed
+      - name: Commit na push kama kuna mabadiliko
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           if git diff --quiet README.md; then
-            echo "No changes to commit"
+            echo "Hakuna mabadiliko — skip commit."
           else
             git add README.md
             git commit -m "chore: refresh stats cache [skip ci]"
