@@ -13,7 +13,7 @@
 </p>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Android+%26+Flutter+mobile+development;Cloud+architecture+%26+microservices;Turning+complex+problems+into+clean+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Android+%26+Flutter+mobile+development;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering;Turning+complex+problems+into+clean+solutions" alt="Typing SVG" />
 
 </div>
 
@@ -38,7 +38,8 @@ status:     Actively seeking opportunities
 ```
 
 - 🔭 Currently building with **Java, React, Spring Boot & CodeIgniter**
-- 🌱 Deepening skills in **Cloud Architecture | AI/ML | Big Data & Data Science**
+- 📊 Experienced in **Big Data, Data Analytics & Machine Learning**
+- 🌱 Deepening skills in **Cloud Architecture | AI/ML in Production | Data Engineering**
 - 💡 Passionate about **clean code & scalable systems**
 - ⚡ Fun fact: *"Hope keeps us alive, but don't forget to live!"*
 
@@ -83,6 +84,7 @@ status:     Actively seeking opportunities
 
 **Frontend & Mobile**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -104,6 +106,26 @@ status:     Actively seeking opportunities
 </details>
 
 <details open>
+<summary><b>📊 Data, Analytics & Machine Learning</b></summary>
+<br>
+
+**Data Engineering & Big Data**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Machine Learning & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
 <summary><b>🔧 Tools</b></summary>
 <br>
 
@@ -121,7 +143,7 @@ status:     Actively seeking opportunities
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1779802921" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1779790404" alt="GitHub Streak" width="48%"/>
 &nbsp;
 <img src="https://readme-stats-bry.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
 
@@ -154,8 +176,8 @@ status:     Actively seeking opportunities
 **☁️ Cloud & Microservices**
 > Designing distributed, fault-tolerant systems on AWS with Docker & Kubernetes
 
-**🤖 AI/ML Integration**
-> Embedding intelligent features into production applications
+**🤖 ML in Production**
+> Taking models from notebooks to scalable, real-world production pipelines
 
 </td>
 <td width="50%">
@@ -163,8 +185,8 @@ status:     Actively seeking opportunities
 **📱 Advanced Mobile Patterns**
 > State management, animations & offline-first architectures in Flutter
 
-**⚡ Performance & DevOps**
-> CI/CD pipelines, core web vitals, infrastructure as code
+**📈 Big Data Engineering**
+> Processing large-scale datasets with Spark, Hadoop & real-time streaming pipelines
 
 </td>
 </tr>
