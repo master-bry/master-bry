@@ -161,7 +161,7 @@ status:     Actively seeking opportunities
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
