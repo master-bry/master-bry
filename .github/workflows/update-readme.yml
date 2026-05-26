@@ -1,61 +1,62 @@
-name: Update README Stats
+name: Refresh README Stats
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   schedule:
-    - cron: '*/6 * * * *'  # Kila masaa 6
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  refresh:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # ← this was the missing fix
 
-      - name: Update cacheBuster in streak stats URL
+      - name: Refresh cacheBuster timestamp
         run: |
           TIMESTAMP=$(date +%s)
-          echo "Timestamp: $TIMESTAMP"
+          echo "New timestamp: $TIMESTAMP"
 
-          python3 - <<PYEOF
-          import re, pathlib
+          python3 - "$TIMESTAMP" <<'PYEOF'
+          import re, pathlib, sys
 
-          readme_path = pathlib.Path("README.md")
-          content = readme_path.read_text(encoding="utf-8")
+          timestamp = sys.argv[1]
+          readme = pathlib.Path("README.md")
+          content = readme.read_text(encoding="utf-8")
 
-          def replace_cache_buster(match):
-              url = match.group(1)
-              # Ondoa cacheBuster iliyopo
-              url = re.sub(r'[?&]cacheBuster=\d+', '', url)
-              # Ongeza mpya — & kwa sababu URL ina ? tayari
-              return 'src="' + url + '&cacheBuster=$TIMESTAMP"'
+          pattern = r'(https://github-readme-streak-stats\.herokuapp\.com/\?user=master-bry[^"]*)'
 
-          # Badilisha streak stats URL peke yake (inayomilikiwa na master-bry)
-          pattern = r'src="(https://github-readme-streak-stats\.herokuapp\.com/\?user=master-bry[^"]*)"'
-          updated = re.sub(pattern, replace_cache_buster, content)
+          def refresh(m):
+              url = re.sub(r'[?&]cacheBuster=\d+', '', m.group(1))
+              sep = '&' if '?' in url else '?'
+              return url + sep + 'cacheBuster=' + timestamp
 
-          readme_path.write_text(updated, encoding="utf-8")
-          print("README imesasishwa.")
+          updated = re.sub(pattern, refresh, content)
+
+          if updated == content:
+              print("No changes detected.")
+          else:
+              readme.write_text(updated, encoding="utf-8")
+              print("README updated.")
           PYEOF
 
-          # Ingiza TIMESTAMP halisi
-          sed -i "s/cacheBuster=\\\$TIMESTAMP/cacheBuster=$TIMESTAMP/g" README.md
+      - name: Show diff
+        run: git diff README.md || echo "No changes."
 
-      - name: Onyesha mabadiliko
-        run: git diff README.md || echo "Hakuna mabadiliko."
-
-      - name: Commit na push
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           if git diff --quiet README.md; then
-            echo "Hakuna mabadiliko — skip."
+            echo "Nothing to commit — skipping."
           else
             git add README.md
             git commit -m "chore: refresh stats cache [skip ci]"
