@@ -4,8 +4,11 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← silences the warning now
 
 jobs:
   refresh:
@@ -15,48 +18,37 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5              # ← bumped to v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}   # ← this was the missing fix
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Refresh cacheBuster timestamp
         run: |
           TIMESTAMP=$(date +%s)
-          echo "New timestamp: $TIMESTAMP"
-
           python3 - "$TIMESTAMP" <<'PYEOF'
           import re, pathlib, sys
-
           timestamp = sys.argv[1]
           readme = pathlib.Path("README.md")
           content = readme.read_text(encoding="utf-8")
-
           pattern = r'(https://github-readme-streak-stats\.herokuapp\.com/\?user=master-bry[^"]*)'
-
           def refresh(m):
               url = re.sub(r'[?&]cacheBuster=\d+', '', m.group(1))
               sep = '&' if '?' in url else '?'
               return url + sep + 'cacheBuster=' + timestamp
-
           updated = re.sub(pattern, refresh, content)
-
-          if updated == content:
-              print("No changes detected.")
-          else:
+          if updated != content:
               readme.write_text(updated, encoding="utf-8")
               print("README updated.")
+          else:
+              print("No changes.")
           PYEOF
-
-      - name: Show diff
-        run: git diff README.md || echo "No changes."
 
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
           if git diff --quiet README.md; then
-            echo "Nothing to commit — skipping."
+            echo "Nothing to commit."
           else
             git add README.md
             git commit -m "chore: refresh stats cache [skip ci]"
