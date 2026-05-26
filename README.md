@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-Final-year **BSc. Software Engineering** student at the **University of Dodoma**, Tanzania. I design and ship end-to-end digital products  from robust backend APIs to polished mobile apps.
+Final-year **BSc. Software Engineering** student at the **University of Dodoma**, Tanzania. I design and ship end-to-end digital products — from robust backend APIs to polished mobile apps.
 
 ```yaml
 name:       Brayan Ngowi
@@ -121,13 +121,13 @@ status:     Actively seeking opportunities
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1779801510" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1779790404" alt="GitHub Streak" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
+<img src="https://readme-stats-bry.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=0ea5e9" alt="Top Languages" width="38%"/>
+<img src="https://readme-stats-bry.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=0ea5e9" alt="Top Languages" width="38%"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=tokyo-night&hide_border=false&radius=10&area=true&area_color=0ea5e9" alt="Activity Graph" width="58%"/>
 
@@ -194,9 +194,9 @@ status:     Actively seeking opportunities
 **🐍 Watch my contributions get eaten!**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/master-bry/master-bry/blob/main/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/master-bry/master-bry/blob/main/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://github.com/master-bry/master-bry/blob/main/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
