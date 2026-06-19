@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%"/>
 
