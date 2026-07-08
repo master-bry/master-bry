@@ -143,7 +143,7 @@ status:     Actively seeking opportunities
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1783499963" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1783521047" alt="GitHub Streak" width="48%"/>
 &nbsp;
 <img src="https://readme-stats-bry.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
 
