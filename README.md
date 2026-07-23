@@ -12,7 +12,7 @@
 </p>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Android+%26+Flutter+mobile+development;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering;Turning+complex+problems+into+clean+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering" alt="Typing SVG" />
 
 </div>
 
