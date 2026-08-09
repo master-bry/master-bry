@@ -31,7 +31,6 @@ Software Engineer | Big Data enthusiast based in Dodoma, Tanzania. I design and 
 ```yaml
 name:       Brayan Ngowi
 alias:      Master-Bry | BryTheMaster 
-born:       10-05-2001
 location:   Dodoma, Tanzania 🇹🇿
 education:  BSc. Software Engineering @ UDOM
 status:     Actively seeking opportunities
