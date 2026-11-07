@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-Software Engineer | Big Data enthusiast based in Dodoma, Tanzania. I design and ship end-to-end digital products, from robust backend APIs to polished mobile apps.
+Software Engineer | •Full stack web and mobile developer|Big Data enthusiast based in Dodoma, Tanzania. I design and ship end-to-end digital products, from robust backend APIs to polished mobile apps.
 
 
 ```yaml
