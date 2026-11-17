@@ -46,11 +46,11 @@ status:     Open to new opportunities
 </td>
 <td width="44%" align="center" valign="top">
 
-<a href="https://app.daily.dev/masterbry">
+<a href="https://daily.dev/masterbry">
   <img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="100%" alt="Brayan Ngowi's dev card"/>
 </a>
 
-<sub>[View dev card →](https://app.daily.dev/masterbry)</sub>
+<sub>[View dev card →](https://daily.dev/masterbry)</sub>
 
 </td>
 </tr>
