@@ -192,9 +192,11 @@ status:     Open to new opportunities
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake-dark.svg?v=1"/>
-  <img src="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg?v=1" alt="Animated snake over Brayan's GitHub contribution graph, including private contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/github-snake-dark.svg?v=1"/>
+  <img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/github-snake.svg?v=1" alt="Animated snake over Brayan's GitHub contribution graph, including private contributions"/>
 </picture>
+
+<sub>Contribution activity, including private contributions, rendered as an animated snake.</sub>
 </div>
 
 ### Profile Summary
@@ -218,11 +220,13 @@ status:     Open to new opportunities
 </tr>
 </table>
 
+<sub>Cards are regenerated daily and use the Tokio Night palette to match the profile.</sub>
+
 ### 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-trophies.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub trophies earned by Brayan Ngowi" width="100%" loading="lazy"/>
 
 </div>
 
