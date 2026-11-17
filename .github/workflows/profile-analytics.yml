@@ -1,0 +1,67 @@
+name: Profile Analytics
+
+on:
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Personal access token stored as a repository secret
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          # Dodoma, Tanzania is UTC+3
+          UTC_OFFSET: 3
+
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  cache-bust:
+    name: Refresh image cache keys in README
+    needs: [cards, snake]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Update version query on analytics images
+        run: |
+          TS=$(date +%s)
+          sed -i -E "s#(profile-summary-card-output/[a-z_]+/[0-9]-[a-z-]+\.svg)(\?v=[0-9]+)?#\1?v=${TS}#g" README.md
+          sed -i -E "s#(/output/github-snake(-dark)?\.svg)(\?v=[0-9]+)?#\1?v=${TS}#g" README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh analytics cache key"
+          file_pattern: README.md
