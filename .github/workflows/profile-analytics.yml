@@ -2,8 +2,7 @@ name: Profile Analytics
 
 on:
   schedule:
-    # Every day at 00:00 UTC
-    - cron: "0 0 * * *"
+    - cron: "20 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,28 +17,30 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Personal access token stored as a repository secret
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
-          # Dodoma, Tanzania is UTC+3
           UTC_OFFSET: 3
 
   snake:
-    name: Generate contribution snake
+    name: Generate contribution snake (public + private)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVG from contribution calendar
+        uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push generated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
