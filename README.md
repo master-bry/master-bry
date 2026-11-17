@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20%7C%20Data%20Engineer&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Ngowi — Software Engineer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Mobile%20%7C%20Data%20Engineer&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Ngowi — Software Engineer banner"/>
 
 <p>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
