@@ -1,0 +1,58 @@
+name: Refresh README Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-readme-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Refresh streak cache key
+        run: |
+          TIMESTAMP=$(date +%s)
+          python3 - "$TIMESTAMP" <<'PYEOF'
+          import pathlib
+          import re
+          import sys
+
+          timestamp = sys.argv[1]
+          readme = pathlib.Path("README.md")
+          content = readme.read_text(encoding="utf-8")
+          pattern = r'(https://github-readme-stats-fast\.vercel\.app/api/streak\?[^"\s)]*)'
+
+          def refresh(match):
+              url = re.sub(r'[?&]cacheBuster=\d+', '', match.group(1))
+              separator = '&' if '?' in url else '?'
+              return f'{url}{separator}cacheBuster={timestamp}'
+
+          updated = re.sub(pattern, refresh, content)
+          if updated != content:
+              readme.write_text(updated, encoding="utf-8")
+              print("README updated.")
+          else:
+              print("No changes.")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "Nothing to commit."
+          else
+            git add README.md
+            git commit -m "chore: refresh stats cache [skip ci]"
+            git push
+          fi
