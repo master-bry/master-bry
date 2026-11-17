@@ -150,8 +150,6 @@ status:     Open to new opportunities
 
 ---
 
----
-
 <a id="projects"></a>
 ## 🚀 Featured Projects
 
@@ -181,6 +179,8 @@ status:     Open to new opportunities
 </td>
 </tr>
 </table>
+
+---
 
 <!-- GITHUB ANALYTICS -->
 <a id="analytics"></a>
