@@ -23,7 +23,7 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="100%" valign="top">
 
 ### 👨‍💻 About Me
 
@@ -46,7 +46,9 @@ status:     Open to new opportunities
 - ⚡ Fun fact: *"Hope keeps us alive, but don't forget to live!"*
 
 </td>
-<td width="44%" align="center" valign="top">
+</tr>
+<tr>
+<td align="center">
 
 <a href="https://daily.dev/masterbry">
   <img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="100%" alt="Brayan Ngowi's dev card"/>
