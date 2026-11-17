@@ -1,0 +1,76 @@
+name: Profile Analytics
+
+on:
+  schedule:
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    name: Generate profile summary cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 3
+
+  snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVG from contribution calendar
+        uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh contribution snake [skip ci]"
+          file_pattern: assets/*.svg
+
+  cache-bust:
+    name: Refresh image cache keys
+    needs: [cards, snake]
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Update version query on analytics images
+        run: |
+          TS=$(date +%s)
+          sed -i -E "s#(profile-summary-card-output/[A-Za-z0-9_]+/[0-9]-[a-z-]+\.svg)(\?v=[0-9]+)?#\1?v=${TS}#g" README.md
+          sed -i -E "s#(/assets/github-snake(-dark)?\.svg)(\?v=[0-9]+)?#\1?v=${TS}#g" README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh analytics cache key [skip ci]"
+          file_pattern: README.md
