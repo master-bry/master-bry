@@ -142,17 +142,11 @@ status:     Actively seeking opportunities
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1794911356" alt="GitHub Streak" width="48%"/>
-&nbsp;
-<img src="https://readme-stats-bry.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
-
-<br/><br/>
-
-<img src="https://readme-stats-bry.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=0ea5e9" alt="Top Languages" width="38%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=tokyo-night&hide_border=false&radius=10&area=true&area_color=0ea5e9" alt="Activity Graph" width="58%"/>
-
+<a href="https://github.com/master-bry"><img align="top" src="https://streak-stats.demolab.com/?user=master-bry&theme=tokyonight&hide_border=true&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1794911356" alt="GitHub Streak" width="49%"/></a>
+<a href="https://github.com/master-bry"><img align="top" src="https://readme-stats-bry.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9&custom_title=Brayan%20Ngowi%27s%20GitHub%20Stats" alt="GitHub Stats" width="49%"/></a>
+<br/>
+<a href="https://github.com/master-bry?tab=repositories"><img align="top" src="https://readme-stats-bry.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&langs_count=8&card_width=420&theme=tokyonight&hide_border=true&border_radius=10&title_color=0ea5e9" alt="Top Languages" width="49%"/></a>
+<a href="https://github.com/master-bry"><img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=tokyo-night&hide_border=true&radius=10&area=true&area_color=0ea5e9&custom_title=Contribution%20Graph" alt="Activity Graph" width="49%"/></a>
 </div>
 
 ---
@@ -161,7 +155,9 @@ status:     Actively seeking opportunities
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
@@ -211,15 +207,14 @@ status:     Actively seeking opportunities
 ---
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
-<!-- SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
 
 **🐍 Watch my contributions get eaten!**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg"/>
 </picture>
 
 </div>
