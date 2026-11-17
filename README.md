@@ -1,18 +1,19 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20%7C%20Data%20Engineer&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Ngowi — Software Engineer banner"/>
 
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<!-- BADGES ROW -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=master-bry&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-0ea5e9?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Based%20in-Dodoma%2C%20Tanzania%20%F0%9F%87%B9%F0%9F%87%BF-f59e0b?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/github/followers/master-bry?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/Based%20in-Tanzania%20🇹🇿-f59e0b?style=for-the-badge" alt="Location"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering" alt="Currently building, architecting and engineering at scale"/>
-
-**[About](#-about-me) · [Stack](#-technical-arsenal) · [Analytics](#-github-analytics) · [Connect](#-lets-connect)**
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering" alt="Typing SVG" />
 
 </div>
 
@@ -21,36 +22,33 @@
 <!-- ABOUT ME SECTION -->
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="55%">
 
 ### 👨‍💻 About Me
 
-I'm a software engineer who designs and ships end-to-end products — from resilient backend APIs and data pipelines to polished web and mobile interfaces. I care about clean architecture, measurable performance, and code that other people can actually maintain.
+Software Engineer | •Full stack web and mobile developer|Big Data enthusiast based in Dodoma, Tanzania. I design and ship end-to-end digital products, from robust backend APIs to polished mobile apps.
+
 
 ```yaml
 name:       Brayan Ngowi
-handle:     master-bry | BryTheMaster
-role:       Software Engineer
+alias:      Master-Bry | BryTheMaster 
 location:   Dodoma, Tanzania 🇹🇿
-education:  BSc. Software Engineering, UDOM
-focus:      Full-Stack · Mobile · Cloud · Data Engineering
-status:     Open to new opportunities
+education:  BSc. Software Engineering @ UDOM
+status:     Actively seeking opportunities
 ```
 
-- 🔭 Currently building with **Java, Spring Boot, React & Flutter**
-- 📊 Working across **Big Data pipelines, Analytics & Applied ML**
-- 🌱 Deepening **Cloud Architecture, Production ML & Data Engineering**
-- 💡 Guiding principle: *clean interfaces, honest metrics, durable systems*
+- 🔭 Currently building with **Java, React, Spring Boot & CodeIgniter**
+- 📊 Experienced in **Big Data, Data Analytics & Machine Learning**
+- 🌱 Deepening skills in **Cloud Architecture | AI/ML in Production | Data Engineering**
+- 💡 Passionate about **clean code & scalable systems**
 - ⚡ Fun fact: *"Hope keeps us alive, but don't forget to live!"*
 
 </td>
-<td width="44%" align="center" valign="top">
+<td width="45%" align="center">
 
 <a href="https://app.daily.dev/masterbry">
-  <img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="100%" alt="Brayan Ngowi's dev card"/>
+  <img src="https://api.daily.dev/devcards/v2/Q0h0PNG0GrIIGpLagzPM7.png?type=wide&r=k7m" width="100%" alt="Brayan Ngowi's Dev Card"/>
 </a>
-
-<sub>[View dev card →](https://app.daily.dev/masterbry)</sub>
 
 </td>
 </tr>
@@ -66,28 +64,25 @@ status:     Open to new opportunities
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
+<summary><b>🧩 Frameworks & Libraries</b></summary>
 <br>
+
+**Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🎨 Frontend & Mobile</b></summary>
-<br>
+**Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -97,7 +92,7 @@ status:     Open to new opportunities
 </details>
 
 <details open>
-<summary><b>☁️ Cloud, DevOps & Data Stores</b></summary>
+<summary><b>☁️ DevOps, Cloud Computing & DDBMS</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -111,13 +106,18 @@ status:     Open to new opportunities
 </details>
 
 <details open>
-<summary><b>📊 Data Engineering & Machine Learning</b></summary>
+<summary><b>📊 Data, Analytics & Machine Learning</b></summary>
 <br>
+
+**Data Engineering & Big Data**
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Machine Learning & AI**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -125,7 +125,7 @@ status:     Open to new opportunities
 
 </details>
 
-<details>
+<details open>
 <summary><b>🔧 Tools</b></summary>
 <br>
 
@@ -139,40 +139,31 @@ status:     Open to new opportunities
 
 ---
 
-<!-- GITHUB ANALYTICS -->
-## 📈 GitHub Analytics
-
-<sub>Generated inside this repository with a token that can read private repositories, so both public and private activity are counted.</sub>
-
-### 🟩 Contribution Graph
+## 📊 GitHub Analytics
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake-dark.svg?v=1"/>
-  <img src="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg?v=1" alt="Animated snake over Brayan's GitHub contribution graph, including private contributions"/>
-</picture>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=master-bry&theme=tokyonight&hide_border=false&border_radius=10&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9&sideLabels=7dd3fc&dates=94a3b8&cacheBuster=1794911356" alt="GitHub Streak" width="48%"/>
+&nbsp;
+<img src="https://readme-stats-bry.vercel.app/api?username=master-bry&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&icon_color=0ea5e9&title_color=0ea5e9" alt="GitHub Stats" width="48%"/>
+
+<br/><br/>
+
+<img src="https://readme-stats-bry.vercel.app/api/top-langs/?username=master-bry&hide=html,css,scss&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=0ea5e9" alt="Top Languages" width="38%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=master-bry&theme=tokyo-night&hide_border=false&radius=10&area=true&area_color=0ea5e9" alt="Activity Graph" width="58%"/>
+
 </div>
 
-### Profile Summary
+---
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1" alt="GitHub profile details"/>
-</td>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/3-stats.svg?v=1" alt="GitHub contribution statistics"/>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1" alt="Repositories per language"/>
-</td>
-<td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1" alt="Most committed language"/>
-</td>
-</tr>
-</table>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
 
 ---
 
@@ -180,22 +171,22 @@ status:     Open to new opportunities
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 **☁️ Cloud & Microservices**
-> Designing fault-tolerant distributed systems on AWS with Docker and Kubernetes.
+> Designing distributed, fault-tolerant systems on AWS with Docker & Kubernetes
 
 **🤖 ML in Production**
-> Moving models from notebooks into scalable, monitored production pipelines.
+> Taking models from notebooks to scalable, real-world production pipelines
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 **📱 Advanced Mobile Patterns**
-> State management, motion design and offline-first architectures in Flutter.
+> State management, animations & offline-first architectures in Flutter
 
 **📈 Big Data Engineering**
-> Streaming and batch processing at scale with Spark, Hadoop and real-time pipelines.
+> Processing large-scale datasets with Spark, Hadoop & real-time streaming pipelines
 
 </td>
 </tr>
@@ -207,7 +198,6 @@ status:     Open to new opportunities
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-master--bry.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://master-bry.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-bryngowi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryngowi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brythemaster-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brythemaster)
 [![Twitter](https://img.shields.io/badge/Twitter-@Master__5326-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Master_5326)
@@ -220,9 +210,25 @@ status:     Open to new opportunities
 
 ---
 
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<div align="center">
+
+**🐍 Watch my contributions get eaten!**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://github.com/master-bry/master/blob/main/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn" width="100%" alt="Thanks for visiting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
