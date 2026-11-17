@@ -142,6 +142,38 @@ status:     Open to new opportunities
 
 ---
 
+---
+
+<a id="projects"></a>
+## 🚀 Featured Projects
+
+<sub>Selected work across data engineering, machine learning, mobile and backend development. Open a card to browse the code and commit history.</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**Data & Machine Learning**
+
+[![nyc-taxi-pipeline](https://img.shields.io/badge/nyc--taxi--pipeline-Data%20Pipeline-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/master-bry/nyc-taxi-pipeline)
+[![spark-project](https://img.shields.io/badge/spark--project-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/master-bry/spark-project)
+[![fraud-detection](https://img.shields.io/badge/fraud--detection-ML%20%26%20Data-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/master-bry/fraud-detection-)
+[![abalone](https://img.shields.io/badge/abalone-ML%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/master-bry/abalone)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Apps & Services**
+
+[![Nihudumie_App](https://img.shields.io/badge/Nihudumie_App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/master-bry/Nihudumie_App)
+[![FloodAlertApp](https://img.shields.io/badge/FloodAlertApp-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/master-bry/FloodAlertApp)
+[![ems-frontend](https://img.shields.io/badge/ems--frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/master-bry/ems-frontend)
+[![finance](https://img.shields.io/badge/finance-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/master-bry/finance)
+
+</td>
+</tr>
+</table>
+
 <!-- GITHUB ANALYTICS -->
 <a id="analytics"></a>
 ## 📈 GitHub Analytics
