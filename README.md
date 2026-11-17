@@ -143,17 +143,17 @@ status:     Actively seeking opportunities
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1" alt="Profile Details" width="49%"/>
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/3-stats.svg?v=1" alt="GitHub Stats" width="49%"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1794915092" alt="Profile Details" width="49%"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/3-stats.svg?v=1794915092" alt="GitHub Stats" width="49%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1" alt="Repositories per Language" width="49%"/>
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1" alt="Most Used Languages in Commits" width="49%"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1794915092" alt="Repositories per Language" width="49%"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1794915092" alt="Most Used Languages in Commits" width="49%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/4-productive-time.svg?v=1" alt="Productive Time" width="49%"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/4-productive-time.svg?v=1794915092" alt="Productive Time" width="49%"/>
 
 <br/>
 
@@ -212,9 +212,9 @@ status:     Actively seeking opportunities
 **🐍 Watch my contributions get eaten!**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake-dark.svg?v=1"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg?v=1"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg?v=1"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake-dark.svg?v=1794915092"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg?v=1794915092"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/master-bry/master-bry/output/github-snake.svg?v=1794915092"/>
 </picture>
 
 </div>
