@@ -12,13 +12,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering" alt="Currently building, architecting and engineering at scale"/>
 
-**[About](#-about-me) · [Stack](#-technical-arsenal) · [Analytics](#-github-analytics) · [Connect](#-lets-connect)**
+**[About](#about) · [Stack](#stack) · [Projects](#projects) · [Analytics](#analytics) · [Learning](#learning) · [Connect](#connect)**
 
 </div>
 
 ---
 
 <!-- ABOUT ME SECTION -->
+<a id="about"></a>
+
 <table>
 <tr>
 <td width="56%" valign="top">
@@ -58,6 +60,7 @@ status:     Open to new opportunities
 
 ---
 
+<a id="stack"></a>
 ## 🛠️ Technical Arsenal
 
 <details open>
@@ -140,6 +143,7 @@ status:     Open to new opportunities
 ---
 
 <!-- GITHUB ANALYTICS -->
+<a id="analytics"></a>
 ## 📈 GitHub Analytics
 
 <sub>Generated inside this repository with a token that can read private repositories, so both public and private activity are counted.</sub>
@@ -196,6 +200,7 @@ status:     Open to new opportunities
 
 ---
 
+<a id="learning"></a>
 ## 🌱 Currently Leveling Up
 
 <table>
@@ -223,6 +228,7 @@ status:     Open to new opportunities
 
 ---
 
+<a id="connect"></a>
 ## 🤝 Let's Connect
 
 <div align="center">
