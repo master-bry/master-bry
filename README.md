@@ -60,7 +60,7 @@ status:     Open to new opportunities
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/github/repos/master-bry?style=for-the-badge&logo=github&label=Repos&color=0ea5e9)](https://github.com/master-bry?tab=repositories)
+[![Repositories](https://badges.pufler.dev/repos/master-bry?style=for-the-badge&logo=github&label=Repos&color=0ea5e9)](https://github.com/master-bry?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/master-bry?style=for-the-badge&logo=github&label=Stars&color=f59e0b)](https://github.com/master-bry?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/master-bry?style=for-the-badge&logo=github&label=Followers&color=22c55e)](https://github.com/master-bry?tab=followers)
 
