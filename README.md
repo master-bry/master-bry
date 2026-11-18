@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Mobile%20%7C%20Data%20Engineer&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Ngowi — Software Engineer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%26%20Laravel%20Web%20Apps%20%7C%20Mobile%20%7C%20Data%20Engineering&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Ngowi — Software Engineer banner"/>
 
 <p>
   <a href="https://www.linkedin.com/in/brythemaster"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/></a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Mobile-0ea5e9?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20App%20Development-0ea5e9?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Based%20in-Dodoma%2C%20Tanzania%20%F0%9F%87%B9%F0%9F%87%BF-f59e0b?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/github/followers/master-bry?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub followers"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+full-stack+applications;Cloud+architecture+%26+microservices;Big+Data+%7C+Analytics+%7C+ML+Engineering" alt="Currently building, architecting and engineering at scale"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=600&color=0EA5E9&center=true&vCenter=true&width=700&height=50&lines=Building+web+apps+with+React+%26+Laravel;Shipping+mobile+apps+with+Flutter+%26+Kotlin;Designing+REST+APIs+%26+clean+architecture;Data+engineering+%7C+pipelines+%7C+analytics" alt="Building web and mobile applications, with data engineering on the side"/>
 
 **[About](#about) · [Stack](#stack) · [Projects](#projects) · [Analytics](#analytics) · [Learning](#learning) · [Connect](#connect)**
 
@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a software engineer who designs and ships end-to-end products — from resilient backend APIs and data pipelines to polished web and mobile interfaces. I care about clean architecture, measurable performance, and code that other people can actually maintain.
+I'm a software engineer whose main craft is building **web and mobile applications** — responsive React interfaces, Laravel and Spring Boot APIs, and polished Flutter/Kotlin apps. I care about clean architecture, intuitive UX, maintainable code, and shipping products people actually use. Data engineering is part of my toolkit, used to feed those applications with reliable data.
 
 ```yaml
 name:       Brayan Ngowi
@@ -35,13 +35,15 @@ handle:     master-bry | BryTheMaster
 role:       Software Engineer
 location:   Dodoma, Tanzania 🇹🇿
 education:  BSc. Software Engineering, UDOM
-focus:      Full-Stack · Mobile · Cloud · Data Engineering
+focus:      Web Apps (React · Laravel) · Mobile · Backend APIs
+secondary:  Data Engineering · Analytics · Applied ML
 status:     Open to new opportunities
 ```
 
-- 🔭 Currently building with **Java, Spring Boot, React & Flutter**
-- 📊 Working across **Big Data pipelines, Analytics & Applied ML**
-- 🌱 Deepening **Cloud Architecture, Production ML & Data Engineering**
+- 🔭 Currently building web apps with **React, Laravel, TypeScript & Spring Boot**
+- 📱 Shipping mobile experiences with **Flutter, React Native & Kotlin**
+- 🧩 Designing **REST APIs, authentication flows & clean backend architecture**
+- 📊 Supporting work in **data pipelines, analytics & applied ML**
 - 💡 Guiding principle: *clean interfaces, honest metrics, durable systems*
 - ⚡ Fun fact: *"Hope keeps us alive, but don't forget to live!"*
 
@@ -86,24 +88,26 @@ status:     Open to new opportunities
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & APIs</b></summary>
+<summary><b>🎨 Frontend, Web & Mobile</b></summary>
 <br>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🎨 Frontend & Mobile</b></summary>
+<summary><b>⚙️ Backend, APIs & Web Frameworks</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 </details>
 
@@ -121,8 +125,8 @@ status:     Open to new opportunities
 
 </details>
 
-<details open>
-<summary><b>📊 Data Engineering & Machine Learning</b></summary>
+<details>
+<summary><b>📊 Data Engineering & Machine Learning (supporting)</b></summary>
 <br>
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -153,28 +157,28 @@ status:     Open to new opportunities
 <a id="projects"></a>
 ## 🚀 Featured Projects
 
-<sub>Selected work across data engineering, machine learning, mobile and backend development. Open a card to browse the code and commit history.</sub>
+<sub>Mostly apps and websites — React/Laravel web platforms, REST APIs and mobile apps — with data engineering projects as supporting work. Open a card to browse the code and commit history.</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-**Data & Machine Learning**
+**Web Apps, APIs & Mobile (primary focus)**
+
+[![ems-frontend](https://img.shields.io/badge/ems--frontend-React%20%7C%20JavaScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/master-bry/ems-frontend)
+[![finance](https://img.shields.io/badge/finance-Spring%20Boot%20API-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/master-bry/finance)
+[![Nihudumie_App](https://img.shields.io/badge/Nihudumie_App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/master-bry/Nihudumie_App)
+[![FloodAlertApp](https://img.shields.io/badge/FloodAlertApp-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/master-bry/FloodAlertApp)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**Data Engineering & ML (supporting)**
 
 [![nyc-taxi-pipeline](https://img.shields.io/badge/nyc--taxi--pipeline-Data%20Pipeline-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/master-bry/nyc-taxi-pipeline)
 [![spark-project](https://img.shields.io/badge/spark--project-Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://github.com/master-bry/spark-project)
 [![fraud-detection](https://img.shields.io/badge/fraud--detection-ML%20%26%20Data-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/master-bry/fraud-detection-)
 [![abalone](https://img.shields.io/badge/abalone-ML%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/master-bry/abalone)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**Apps & Services**
-
-[![Nihudumie_App](https://img.shields.io/badge/Nihudumie_App-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/master-bry/Nihudumie_App)
-[![FloodAlertApp](https://img.shields.io/badge/FloodAlertApp-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/master-bry/FloodAlertApp)
-[![ems-frontend](https://img.shields.io/badge/ems--frontend-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/master-bry/ems-frontend)
-[![finance](https://img.shields.io/badge/finance-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/master-bry/finance)
 
 </td>
 </tr>
@@ -251,11 +255,11 @@ status:     Open to new opportunities
 <tr>
 <td width="50%" valign="top">
 
-**☁️ Cloud & Microservices**
-> Designing fault-tolerant distributed systems on AWS with Docker and Kubernetes.
+**⚛️ Modern React & Frontend Architecture**
+> Component design, state management, TypeScript and performant responsive UIs.
 
-**🤖 ML in Production**
-> Moving models from notebooks into scalable, monitored production pipelines.
+**🐘 Laravel & Backend Craft**
+> Eloquent, authentication, REST APIs, queues and testable application structure.
 
 </td>
 <td width="50%" valign="top">
@@ -263,8 +267,8 @@ status:     Open to new opportunities
 **📱 Advanced Mobile Patterns**
 > State management, motion design and offline-first architectures in Flutter.
 
-**📈 Big Data Engineering**
-> Streaming and batch processing at scale with Spark, Hadoop and real-time pipelines.
+**📊 Data Engineering for Applications**
+> Building pipelines and analytics that power product features with Spark and Python.
 
 </td>
 </tr>
