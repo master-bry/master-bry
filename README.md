@@ -53,6 +53,7 @@ status:     Open to new opportunities
 </a>
 
 <sub>[View dev card →](https://daily.dev/masterbry)</sub>
+[![wakatime](https://wakatime.com/badge/user/9561d93b-33b6-44b2-9802-75cd897892e8.svg)](https://wakatime.com/@9561d93b-33b6-44b2-9802-75cd897892e8)
 
 </td>
 </tr>
