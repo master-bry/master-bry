@@ -1,0 +1,27 @@
+name: Validate Profile
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: validate-profile-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Check README and generated cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate profile assets
+        run: python3 scripts/validate_profile.py
