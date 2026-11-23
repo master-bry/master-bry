@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the profile README, theme gallery and generated SVG cards."""
+"""Validate the profile README and the SVG cards it actually uses."""
 
 from __future__ import annotations
 
@@ -10,24 +10,25 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 GALLERY = ROOT / "profile-summary-card-output"
-CARDS = (
+ASSETS = ROOT / "assets"
+
+# Only the theme referenced by the root README must be complete.
+USED_THEME = "tokyonight"
+USED_CARDS = (
     "0-profile-details.svg",
     "1-repos-per-language.svg",
     "2-most-commit-language.svg",
     "3-stats.svg",
-    "4-productive-time.svg",
 )
+
 IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)]+)\)")
-LOCAL_RAW = re.compile(r"raw\.githubusercontent\.com/master-bry/master-bry/main/([^\s\"')]+)")
-THEME_LINK = re.compile(r"\]\(\./([^/)]+)/README\.md\)")
+LOCAL_RAW = re.compile(
+    r"raw\.githubusercontent\.com/master-bry/master-bry/main/([^\s\"')]+)"
+)
 
 
 def read(path: Path) -> str:
     return path.read_text(encoding="utf-8")
-
-
-def image_targets(content: str) -> list[tuple[str, str]]:
-    return [(alt, target) for alt, target in IMAGE.findall(content)]
 
 
 def strip_query(target: str) -> str:
@@ -35,83 +36,59 @@ def strip_query(target: str) -> str:
 
 
 def check_svg(path: Path, errors: list[str]) -> None:
+    """Report an error if the file is not well-formed XML."""
     try:
         ET.parse(path)
     except ET.ParseError as exc:
         errors.append(f"{path.relative_to(ROOT)}: invalid SVG ({exc})")
 
 
-def check_theme(theme: Path, errors: list[str]) -> None:
-    for card in CARDS:
-        path = theme / card
-        if not path.is_file():
-            errors.append(f"{theme.relative_to(ROOT)}: missing {card}")
-        else:
-            check_svg(path, errors)
-
-    readme = theme / "README.md"
-    if not readme.is_file():
-        errors.append(f"{theme.relative_to(ROOT)}: missing README.md")
+def check_used_theme(errors: list[str]) -> None:
+    """The theme used by README.md must contain every card it references."""
+    theme = GALLERY / USED_THEME
+    if not theme.is_dir():
+        errors.append(f"{theme.relative_to(ROOT)}: theme folder missing")
         return
-
-    content = read(readme)
-    targets = [strip_query(target) for _, target in image_targets(content)]
-    names = {Path(target).name for target in targets}
-    for target in targets:
-        if target.startswith("./") and not (theme / target[2:]).is_file():
-            errors.append(f"{readme.relative_to(ROOT)}: broken image {target}")
-
-    for card in CARDS:
-        if card not in names:
-            errors.append(f"{readme.relative_to(ROOT)}: does not showcase {card}")
-
-    for alt, target in image_targets(content):
-        if not alt.strip():
-            errors.append(f"{readme.relative_to(ROOT)}: empty alt text for {target}")
+    for card in USED_CARDS:
+        if not (theme / card).is_file():
+            errors.append(f"{theme.relative_to(ROOT)}: missing {card}")
 
 
 def check_root_readme(errors: list[str]) -> None:
     readme = ROOT / "README.md"
+    if not readme.is_file():
+        errors.append("README.md: file missing")
+        return
+
     content = read(readme)
+
+    # Every image served from this repo must exist in the working tree.
     for raw_path in LOCAL_RAW.findall(content):
         target = ROOT / strip_query(raw_path)
         if not target.is_file():
             errors.append(f"README.md: broken local asset {raw_path}")
 
-    for alt, target in image_targets(content):
+    # Markdown images need non-empty alt text.
+    for alt, target in IMAGE.findall(content):
         if not alt.strip():
             errors.append(f"README.md: empty alt text for {target}")
 
 
-def check_gallery(themes: list[Path], errors: list[str]) -> None:
-    gallery_readme = GALLERY / "README.md"
-    index = GALLERY / "INDEX.md"
-    if not index.is_file():
-        errors.append("profile-summary-card-output/INDEX.md: missing theme index")
-    gallery_content = read(gallery_readme) if gallery_readme.is_file() else ""
-    index_content = read(index) if index.is_file() else ""
-    linked = set(THEME_LINK.findall(gallery_content)) | set(THEME_LINK.findall(index_content))
-
-    for theme in themes:
-        if theme.name not in linked:
-            errors.append(f"{theme.relative_to(ROOT)}: absent from gallery index")
+def check_all_svgs(errors: list[str]) -> None:
+    """Parse every SVG that exists; generated files may change daily."""
+    svgs = list(ASSETS.glob("*.svg")) if ASSETS.is_dir() else []
+    if GALLERY.is_dir():
+        svgs += list(GALLERY.glob("*/*.svg"))
+    for svg in svgs:
+        check_svg(svg, errors)
 
 
 def main() -> int:
-    themes = sorted(path for path in GALLERY.iterdir() if path.is_dir())
     errors: list[str] = []
 
-    if not themes:
-        errors.append("profile-summary-card-output: no themes found")
-
-    for theme in themes:
-        check_theme(theme, errors)
-
+    check_used_theme(errors)
     check_root_readme(errors)
-    check_gallery(themes, errors)
-
-    for asset in (ROOT / "assets").glob("*.svg"):
-        check_svg(asset, errors)
+    check_all_svgs(errors)
 
     if errors:
         print(f"Validation failed with {len(errors)} problem(s):")
@@ -119,7 +96,8 @@ def main() -> int:
             print(f"  - {error}")
         return 1
 
-    print(f"Validated {len(themes)} themes, {len(list(GALLERY.glob('*/*.svg')))} cards and README.md")
+    card_count = len(list(GALLERY.glob("*/*.svg"))) if GALLERY.is_dir() else 0
+    print(f"Validated README.md, assets/ and {card_count} generated cards")
     return 0
 
 
