@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Brayan%20Ngowi&fontSize=52&fontColor=f0f9ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%26%20Laravel%20Web%20Apps%20%7C%20Mobile%20%7C%20Data%20Engineering&descSize=16&descColor=7dd3fc&descAlignY=58&animation=fadeIn" width="100%" alt="Brayan Ngowi — Software Engineer banner"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/header.svg" width="100%" alt="Brayan Ngowi - Software Engineer banner"/>
 
 <p>
   <a href="https://www.linkedin.com/in/brythemaster"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/></a>
@@ -18,7 +17,6 @@
 
 ---
 
-<!-- ABOUT ME SECTION -->
 <a id="about"></a>
 
 <table>
@@ -61,11 +59,7 @@ status:     Open to new opportunities
 </table>
 
 <div align="center">
-
-[![Repositories](https://badges.pufler.dev/repos/master-bry?style=for-the-badge&logo=github&label=Repos&color=0ea5e9)](https://github.com/master-bry?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/master-bry?style=for-the-badge&logo=github&label=Stars&color=f59e0b)](https://github.com/master-bry?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/master-bry?style=for-the-badge&logo=github&label=Followers&color=22c55e)](https://github.com/master-bry?tab=followers)
-
+  <img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/stats.svg" alt="GitHub stats: followers, repositories, stars, following"/>
 </div>
 
 ---
@@ -186,7 +180,6 @@ status:     Open to new opportunities
 
 ---
 
-<!-- GITHUB ANALYTICS -->
 <a id="analytics"></a>
 ## 📈 GitHub Analytics
 
@@ -225,20 +218,6 @@ status:     Open to new opportunities
 </table>
 
 <sub>Cards are regenerated daily and use the Tokio Night palette to match the profile.</sub>
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=master-bry&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="GitHub trophies earned by Brayan Ngowi" width="100%" loading="lazy"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=master-bry&theme=transparent&hide_border=true&ring=10B981&fire=10B981&currStreakLabel=10B981&cacheBuster=1795409956" alt="GitHub streak"/>
-
-</div>
 
 <div align="center">
 
@@ -294,8 +273,7 @@ status:     Open to new opportunities
 
 ---
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=7dd3fc&fontAlignY=65&animation=fadeIn" width="100%" alt="Thanks for visiting"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/footer.svg" width="100%" alt="Thanks for visiting"/>
 
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
