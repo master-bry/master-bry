@@ -58,9 +58,9 @@ status:     Open to new opportunities
 </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/stats.svg" alt="GitHub stats: followers, repositories, stars, following"/>
-</div>
+</div> -->
 
 ---
 
