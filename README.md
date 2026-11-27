@@ -181,9 +181,21 @@ status:     Open to new opportunities
 ---
 
 <a id="analytics"></a>
-## 📈 GitHub Analytics
+## 📈 All-Time GitHub Analytics
 
-<sub>Generated inside this repository with a token that can read private repositories, so both public and private activity are counted.</sub>
+<div align="center">
+
+<a href="https://github.com/master-bry">
+  <img src="https://demolab.com" alt="GitHub Streak & Total Contributions" />
+</a>
+
+<br/>
+
+<a href="https://github.com/master-bry">
+  <img src="https://vercel.app" alt="Brayan Ngowi's All-Time GitHub Stats" />
+</a>
+
+</div>
 
 ### 🟩 Contribution Graph
 
