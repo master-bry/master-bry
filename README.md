@@ -201,8 +201,8 @@ status:     Open to new opportunities
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/github-snake-dark.svg?v=1795787688"/>
-  <img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/github-snake.svg?v=1795787688" alt="Animated snake over Brayan's GitHub contribution graph, including private contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/github-snake-dark.svg?v=1795870851"/>
+  <img src="https://raw.githubusercontent.com/master-bry/master-bry/main/assets/github-snake.svg?v=1795870851" alt="Animated snake over Brayan's GitHub contribution graph, including private contributions"/>
 </picture>
 
 <sub>Contribution activity, including private contributions, rendered as an animated snake.</sub>
@@ -213,18 +213,18 @@ status:     Open to new opportunities
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1795787688" alt="GitHub profile details"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1795870851" alt="GitHub profile details"/>
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/3-stats.svg?v=1795787688" alt="GitHub contribution statistics"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/3-stats.svg?v=1795870851" alt="GitHub contribution statistics"/>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1795787688" alt="Repositories per language"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1795870851" alt="Repositories per language"/>
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1795787688" alt="Most committed language"/>
+<img src="https://raw.githubusercontent.com/master-bry/master-bry/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1795870851" alt="Most committed language"/>
 </td>
 </tr>
 </table>
